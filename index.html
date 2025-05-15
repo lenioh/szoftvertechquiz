@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Szoftvertechnológia 1</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Szoftvertechnológia 1 Quiz</h1>
+  </header>
+
+  <div id="start-screen">
+    <button id="start-btn">START</button>
+  </div>
+
+  <div id="quiz-container" class="hidden">
+    <div id="main-sections">
+      <div id="question-section">
+        <p id="question-text"></p>
+      </div>
+      <div id="options-section">
+        <div id="options"></div>
+      </div>
+    </div>
+
+    <div id="explanation" class="explanation"></div>
+
+    <div id="controls">
+      <button id="restart-btn">Restart</button>
+      <div id="action-buttons">
+        <button id="submit-btn" disabled>Submit</button>
+        <button id="next-btn" disabled>Next</button>
+      </div>
+    </div>
+
+    <div id="progress-container">
+      <div id="progress-bar"></div>
+      <div id="counter">0/40</div>
+    </div>
+  </div>
+
+  <!-- Session Summary Modal -->
+  <div id="summary-modal" class="modal hidden">
+    <div class="modal-content">
+      <h2>Session Complete!</h2>
+      <p id="summary-text"></p>
+      <button id="modal-restart-btn">Play Again</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
