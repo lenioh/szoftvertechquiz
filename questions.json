@@ -1,7 +1,6 @@
 [
   {
     "question": "Minek a rövidítése a RUP?",
-    "selectCount": 1,
     "options": [
       {
         "text": "RationalUnifiedProcess",
@@ -24,7 +23,6 @@
   },
   {
     "question": "Melyek a RUP modell fázisai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Elindítás, kidolgozás, megépítés, átmenet",
@@ -47,7 +45,6 @@
   },
   {
     "question": "Mely modell fázisait foglalja magában a RUP modell 2. dimenziója?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízesés modell",
@@ -70,7 +67,6 @@
   },
   {
     "question": "Mi az a RUP?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy specifikációs módszer.",
@@ -93,7 +89,6 @@
   },
   {
     "question": "Miért olyan fontos a követelményspecifikáció a RUP modellben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Azért, mert jó követelményspecifikációval a projekt végén sok prémiumra számíthatunk.",
@@ -112,7 +107,6 @@
   },
   {
     "question": "Mely jellemző nem az agilis szoftverfejlesztés jellemzője?",
-    "selectCount": 1,
     "options": [
       {
         "text": "rugalmas",
@@ -135,7 +129,6 @@
   },
   {
     "question": "Mely szavak jellemzik leginkább az agilis szoftverfejlesztést?",
-    "selectCount": 1,
     "options": [
       {
         "text": "fürge, rugalmas, hatékony, kommunikatív",
@@ -158,7 +151,6 @@
   },
   {
     "question": "Mi a scrum?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Agilis szoftverfejlesztési módszer.",
@@ -177,7 +169,6 @@
   },
   {
     "question": "Melyek jellemzik a scrum-ot?",
-    "selectCount": 1,
     "options": [
       {
         "text": "sprint, productbacklog, dailyscrum meeting",
@@ -196,7 +187,6 @@
   },
   {
     "question": "Kik a scrum résztvevői?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Product Owner, ScrumMaster, Team",
@@ -211,7 +201,6 @@
   },
   {
     "question": "Kik a kiemelt szereplői egy szoftverprojektnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "team, projektvezető, projektmenedzser",
@@ -226,7 +215,6 @@
   },
   {
     "question": "Egy szoftver projektben mi a feladata a projektvezetőnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "projekttervezés, felülvizsgálat, beszámoló",
@@ -245,7 +233,6 @@
   },
   {
     "question": "Mi a feladata egy szoftverprojektben a projektmenedzsernek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "kiegészítő munkák, melyekkel könnyebbé teszi a team munkáját",
@@ -264,7 +251,6 @@
   },
   {
     "question": "Mely tervre nem igaz, hogy egy szoftverprojekt tervezésének fontos része?",
-    "selectCount": 1,
     "options": [
       {
         "text": "validációs terv",
@@ -287,7 +273,6 @@
   },
   {
     "question": "Mit nem tartalmaz a projektterv?",
-    "selectCount": 1,
     "options": [
       {
         "text": "bevezetés",
@@ -310,7 +295,6 @@
   },
   {
     "question": "Egy szoftverprojekt során mely nem szoftverkockázat?",
-    "selectCount": 1,
     "options": [
       {
         "text": "specifikáció késése",
@@ -333,7 +317,6 @@
   },
   {
     "question": "Egy szoftverprojekt esetében mely nem kockázati kategória?",
-    "selectCount": 1,
     "options": [
       {
         "text": "projektkockázat",
@@ -356,7 +339,6 @@
   },
   {
     "question": "Miért jobb a COCOMO Intermediate, mint a COCOMO Basic?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Mert számol költségtényezőkkel is.",
@@ -375,7 +357,6 @@
   },
   {
     "question": "Hány csoportra oszthatjuk a COCOMO Intermediate költségtényezőit?",
-    "selectCount": 1,
     "options": [
       {
         "text": "3",
@@ -398,7 +379,6 @@
   },
   {
     "question": "Mely nem tartozik a COCOMO Intermediate személyi költségtényezői (personnelattributes) közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "applicationsexperience",
@@ -421,7 +401,6 @@
   },
   {
     "question": "A COCOMO2 mely modellre vonatkozik elsősorban?",
-    "selectCount": 1,
     "options": [
       {
         "text": "V-modell",
@@ -444,7 +423,6 @@
   },
   {
     "question": "Mi az a CMM?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Kormányzati projektre kifejlesztett módszer annak kiderítésére, hogy milyen eséllyel teljesül a projekt.",
@@ -463,7 +441,6 @@
   },
   {
     "question": "Melyik a CMM utódja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "CMM1",
@@ -486,7 +463,6 @@
   },
   {
     "question": "Mely nem a CMMI fő iránya?",
-    "selectCount": 1,
     "options": [
       {
         "text": "development",
@@ -509,7 +485,6 @@
   },
   {
     "question": "Melyek a CMMI érettségi szintjei?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Initial, Managed, Defined, QuantitativelyManaged, Optimizing",
@@ -528,7 +503,6 @@
   },
   {
     "question": "Mi a feladata a scrum-ban a Product Ownernek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felelős a költségekért, illetve elfogadja vagy visszadobja a kész szoftverrészeket.",
@@ -547,7 +521,6 @@
   },
   {
     "question": "Mi a feladata a scrum-ban a Scrum Masternek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felelős a scrum betartásáért és biztosítja, hogy a csapat hatékony és termelékeny legyen.",
@@ -566,7 +539,6 @@
   },
   {
     "question": "Mi a feladata a scrum-ban a Teamnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Csapat alkotása, a szoftver elkészítése.",
@@ -585,7 +557,6 @@
   },
   {
     "question": "Mely állítás nem igaz a product backlog-ról?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A kívánt munkák listáját tartalmazza a projekten.",
@@ -604,7 +575,6 @@
   },
   {
     "question": "Mely állítás nem igaz a daily scrum-ra?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Állva történik.",
@@ -627,7 +597,6 @@
   },
   {
     "question": "Mely állítás nem igaz a sprint-re?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Közben a csapatot nem érheti külső hatás.",
@@ -650,7 +619,6 @@
   },
   {
     "question": "Mennyi ideig tart egy sprint?",
-    "selectCount": 1,
     "options": [
       {
         "text": "2-4 hét",
@@ -673,7 +641,6 @@
   },
   {
     "question": "Mi történik a sprint planning során?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Produckt backlog és sprint backlog elkészítése, a sprint céljának meghatározása.",
@@ -692,7 +659,6 @@
   },
   {
     "question": "Mi a sprint backlog?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A product backlog része, amit a sprint alatt teljesíteni kell.",
@@ -711,7 +677,6 @@
   },
   {
     "question": "Mi az a sprint burndown chart?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy diagram, mely tartalmazza (naponta), hogy mennyi idő és mennyi elem van még hátra.",
@@ -730,7 +695,6 @@
   },
   {
     "question": "Mi az a release burndown chart?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Diagram, melyen látható, hogy időben kész lesz-e a szoftver aktuális változata.",
@@ -749,7 +713,6 @@
   },
   {
     "question": "Mi jellemző a CMMI „Kezdeti ” érettségi szintére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.",
@@ -772,7 +735,6 @@
   },
   {
     "question": "Mi jellemző a CMMI „Menedzselt” érettségi szintére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A folyamatok a projektre szabottabbak.",
@@ -795,7 +757,6 @@
   },
   {
     "question": "Mi jellemző a CMMI „Meghatározott” érettségi szintére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A folyamatok a szervezetre szabottak és biztonságosabbak.",
@@ -818,7 +779,6 @@
   },
   {
     "question": "Mi jellemző a CMMI „Mennyiségileg menedzselt” érettségi szintére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A folyamatok mérhetőek és ellenőrzöttek.",
@@ -841,7 +801,6 @@
   },
   {
     "question": "Mi jellemző a CMMI „Optimalizált” érettségi szintére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A hangsúly a folyamatok tökéletesítésén van.",
@@ -864,7 +823,6 @@
   },
   {
     "question": "Mit mond ki a Moore-törvény?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az ugyanazon térfogatba integrálható tranzisztorok száma és ezzel együtt a számítási teljesítmény másfél évenként megkétszereződik.",
@@ -887,7 +845,6 @@
   },
   {
     "question": "Mik egy hardver rendszer részei?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Számítógép",
@@ -922,7 +879,6 @@
   },
   {
     "question": "Mik egy szoftver rendszer részei?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A számítógépen futó programok együttese",
@@ -953,7 +909,6 @@
   },
   {
     "question": "Az alábbiak közül melyik lehet egy szoftver termék?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Generikus termék",
@@ -980,7 +935,6 @@
   },
   {
     "question": "Mi a generikus termék jellemzői?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Fejlesztő cég önálló terméke",
@@ -1007,7 +961,6 @@
   },
   {
     "question": "Mi a generikus termék jellemzői?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Fejlesztő cég saját tervek alapján készíti el",
@@ -1034,7 +987,6 @@
   },
   {
     "question": "Mi a megrendeléses termék jellemzői?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felhasználói megrendelésre készül",
@@ -1065,7 +1017,6 @@
   },
   {
     "question": "Hogyan szokás még nevezni a generikus terméket?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Generic product",
@@ -1092,7 +1043,6 @@
   },
   {
     "question": "Melyik az a szoftver termék, melynek specifikálását, tervezését, létrehozását a fejlesztő intézmény a piaci elvárások felmérése alapján, a várható felhasználói igények meghatározása révén végzi el?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Generic product",
@@ -1123,7 +1073,6 @@
   },
   {
     "question": "Szoftver termékek esetén mit jelent a customization?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy generikus szoftvert egy adott felhasználó igényeihez alakítva adnak el neki",
@@ -1146,7 +1095,6 @@
   },
   {
     "question": "Mit értünk az elvárásoknak megfelelő működésen?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szoftver teljesíti a felhasználói igényeket, elfogadható futási idő alatt, és elfogadható kényelmet biztosítva végzi el feladatát.",
@@ -1169,7 +1117,6 @@
   },
   {
     "question": "Egy szoftver termékre milyen tulajdonságoknak kell teljesülnie?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hatékony",
@@ -1204,7 +1151,6 @@
   },
   {
     "question": "Egy szoftver termékre milyen tulajdonságoknak kell teljesülnie?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tesztelhető",
@@ -1235,7 +1181,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a hatékonyság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Kellő idő alatt teljesíti a számítási feladatát.",
@@ -1258,7 +1203,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a megbízhatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hibafellépés nélkül hajtja végre előírt feladatát.",
@@ -1281,7 +1225,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a használhatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.",
@@ -1304,7 +1247,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a módosíthatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Könnyen meg lehet változtatni, ha a követelmények változnak.",
@@ -1327,7 +1269,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a hordozhatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A lehető legkevesebb újraírás árán lehessen átvinni egy másik hardver-platformra.",
@@ -1350,7 +1291,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a tesztelhetőség?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Könnyen lehessen tesztelni, az esetleges működési hibákat megtalálni.",
@@ -1373,7 +1313,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén az újra-felhasználhatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.",
@@ -1396,7 +1335,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén a karbantarthatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A felhasználás során felmerülő igényekhez lehessen megváltoztatni, átalakítani, módosítani.",
@@ -1419,7 +1357,6 @@
   },
   {
     "question": "Mit jelent egy szoftver termék esetén az együttműködhetőség?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szoftver más rendszerekkel való együttműködési, információcserélési lehetőségeire utal.",
@@ -1442,7 +1379,6 @@
   },
   {
     "question": "Mi az úgynevezett Brooks-féle szabály?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ahhoz, hogy a kezdeti kétemberes fejlesztés ne csak a két ember számára legyen elfogadható, hanem széles körben, mások által is használható legyen, még további munkára, ráfordításra van szükség, ami az eredetinek kb. 8-9-szerese.",
@@ -1465,7 +1401,6 @@
   },
   {
     "question": "Mi az emberhónap?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A projektek munkaráfordításának egy mérőszáma. Ezt a számot úgy kapjuk meg, hogy a projektben részt vevő emberek átlagos számát megszorozzuk a projekt teljes időtartamával.",
@@ -1488,7 +1423,6 @@
   },
   {
     "question": "Egy fejlesztési projekt esetén EH=112. Mennyi lehet E és H értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "E=1, H=112",
@@ -1515,7 +1449,6 @@
   },
   {
     "question": "Egy szoftverfejlesztési projekt mikor nevezhető sikeresnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ha a kitűzött határidőn belül készül el",
@@ -1542,7 +1475,6 @@
   },
   {
     "question": "Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Rendszer-szoftverek",
@@ -1565,7 +1497,6 @@
   },
   {
     "question": "Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Mérnöki és tudományos célú szoftverek",
@@ -1588,7 +1519,6 @@
   },
   {
     "question": "Mi a VIR?",
-    "selectCount": 1,
     "options": [
       {
         "text": "EIS",
@@ -1619,7 +1549,6 @@
   },
   {
     "question": "Az alábbi kategóriák közül melyek tartoznak Roger Pressman által felállított szoftver alkalmazási területek közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Személyi számítógépes szoftverek",
@@ -1642,7 +1571,6 @@
   },
   {
     "question": "Mi igaz a VIR esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Elsősorban felső szintű döntéshozók, pénzügyi szakemberek és üzletemberek számára nyújt támogatást.",
@@ -1669,7 +1597,6 @@
   },
   {
     "question": "Mely állítások igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az EIS rendszerek a vezetői döntéshez szükséges információkat szűrik ki, szelektálják az adatbázisból.",
@@ -1692,7 +1619,6 @@
   },
   {
     "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Szolgáltatást nyújt, strukturált vagy strukturálatlan fájlok feldolgozása, nagy mennyiségű adatfeldolgozás.",
-    "selectCount": 1,
     "options": [
       {
         "text": "Rendszer szoftver",
@@ -1715,7 +1641,6 @@
   },
   {
     "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Időbeliséghez igazodás, külső események felügyelete, vezérlése, időkereten belüli reagálás.",
@@ -1742,7 +1667,6 @@
   },
   {
     "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Nagy mennyiségű információ feldolgozás, komponens alapú komplex rendszer, minden komponensnek egyéni funkció.",
@@ -1769,7 +1693,6 @@
   },
   {
     "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Nagy mennyiségű számítási igény, nagy teljesítményű hardver, komplex matematikai műveletek.",
@@ -1796,7 +1719,6 @@
   },
   {
     "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vezérlő eszköz vagy célberendezés működését segítik, teszik lehetővé.",
@@ -1823,7 +1745,6 @@
   },
   {
     "question": "Honnan számítható egy szoftver életciklusa?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy szoftver életciklusa a követelmények specifikálásával veszi kezdetét.",
@@ -1846,7 +1767,6 @@
   },
   {
     "question": "Mikor fejeződik be egy szoftver életciklusa?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Amikor a szoftver elavulttá válik, használaton kívülre kerül.",
@@ -1869,7 +1789,6 @@
   },
   {
     "question": "Az alábbiak közül melyek szoftverfejlesztési modellek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízesés modell",
@@ -1908,7 +1827,6 @@
   },
   {
     "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízesés modell",
@@ -1927,7 +1845,6 @@
   },
   {
     "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Prototípus-alapú fejlesztés",
@@ -1950,7 +1867,6 @@
   },
   {
     "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Inkrementális fejlesztés",
@@ -1977,7 +1893,6 @@
   },
   {
     "question": "Az alábbi állítások közül mely hamis?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A V-modell leginkább a vállalati információs rendszerekhez alkalmas.",
@@ -2000,7 +1915,6 @@
   },
   {
     "question": "Mi jellemezte egy szoftverfejlesztési folyamatot a szoftver-technológia kialakulásának kezdetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egymás után elvégzendő feladatok sorozatának definiálása.",
@@ -2039,7 +1953,6 @@
   },
   {
     "question": "Mi jellemezi egy szoftverfejlesztési folyamatot a szoftver-technológia mai szemlélete szerint?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Fejlesztési lépések halmazának definiálása.",
@@ -2078,7 +1991,6 @@
   },
   {
     "question": "Milyen fázisok találhatóak a vízesés modellben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Követelmények elemzése és meghatározása",
@@ -2117,7 +2029,6 @@
   },
   {
     "question": "A vízesés modell fázisai közül melyik az, melyből bármelyik korábbi fázishoz visszatérhetünk?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Üzemeltetés és karbantartás",
@@ -2140,7 +2051,6 @@
   },
   {
     "question": "Hogyan szokás még nevezni a vízesés modellt?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Lineáris ciklus",
@@ -2167,7 +2077,6 @@
   },
   {
     "question": "Mikor alkalmazható jól a vízesés modell?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ha a fejlesztési követelmények egyértelműen meg vannak határozva.",
@@ -2190,7 +2099,6 @@
   },
   {
     "question": "Ha egy rendszert nem lehet vagy nem érdemes pontosan specifikálni, akkor milyen szoftverfejlesztési modellt célszerű alkalmazni?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Evolúciós fejlesztés",
@@ -2217,7 +2125,6 @@
   },
   {
     "question": "Milyen fázisok találhatóak a prototípus alapú fejlesztésben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Feladat meghatározása",
@@ -2260,7 +2167,6 @@
   },
   {
     "question": "Mi jellemző a lineáris ciklusra?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.",
@@ -2283,7 +2189,6 @@
   },
   {
     "question": "Mi jellemző az evolúciós fejlesztésre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.",
@@ -2322,7 +2227,6 @@
   },
   {
     "question": "Prototípus alapú fejlesztés esetén melyik az a fázis, mely során visszaléphetünk a modell kezdeti fázisához?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Prototípus megfelelőségének vizsgálata",
@@ -2349,7 +2253,6 @@
   },
   {
     "question": "Mekkora rendszereknél célszerű alkalmazni az evolúciós fejlesztést?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Kiss és közepes méretű rendszerek esetén, ahol nincs szükség több team-re.",
@@ -2372,7 +2275,6 @@
   },
   {
     "question": "Nagy rendszereknél érdemes e vegyesen használni az evolúciós és a vízesés modellt? Ha igen, hogyan?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Igen, a specifikáció végleges kialakítását evolúciós módon, és ezt követően már a vízesés-alapú folyamattal valósítsuk meg a végleges tervet.",
@@ -2395,7 +2297,6 @@
   },
   {
     "question": "Mit nevezünk inkrementumnak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Növekményes fejlesztési modell esetén az egyes részfunkciókat megvalósító fejlesztési változatokat.",
@@ -2422,7 +2323,6 @@
   },
   {
     "question": "Az alábbiak közül melyik igaz a növekményes fejlesztési modell esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Inkrementumokból integrálják össze a kész rendszert.",
@@ -2449,7 +2349,6 @@
   },
   {
     "question": "Inkrementális fejleszt esetén mely fázis során és hova léphetünk vissza?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer teljességének vizsgálata során léphetünk vissza az inkrementum kifejlesztési fázis elé.",
@@ -2476,7 +2375,6 @@
   },
   {
     "question": "Milyen előnyei vannak az inkrementális fejlesztésnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A felhasználónak nem kell megvárnia, amíg a teljes végleges rendszert megkapja.",
@@ -2507,7 +2405,6 @@
   },
   {
     "question": "Növekményes fejlesztés esetén mi a teendő, ha egy inkrementum elkészül (véglegessé válik)?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hozzáintegráljuk a már elfogadott és egybeépített többi inkrementumhoz.",
@@ -2530,7 +2427,6 @@
   },
   {
     "question": "Mi jellemző a spirál modellre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.",
@@ -2553,7 +2449,6 @@
   },
   {
     "question": "Milyen szektorokból és milyen sorrendben épül fel a spirál modell?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Fejlesztési célok, tárgykörök megállapítása. 2: Kockázatok értékelése és csökkentése. 3: Fejlesztés és validálás. 4: Tervezés",
@@ -2580,7 +2475,6 @@
   },
   {
     "question": "Spirál modell esetén mi történik a tervezési fázisban?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A projekt teljes átvizsgálása, döntés további folytatásról.",
@@ -2603,7 +2497,6 @@
   },
   {
     "question": "Az alábbiak közül melyik igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A spirál modell fontos velejárója a kockázatok feltárása és csökkentése.",
@@ -2626,7 +2519,6 @@
   },
   {
     "question": "Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, amit előzetesen pontosan ismer, a teljes felépítéssel együtt?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízesés modell",
@@ -2653,7 +2545,6 @@
   },
   {
     "question": "Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, amely nincsen jól strukturálva, és nehezebb átgondolni?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Evolúciós modell",
@@ -2676,7 +2567,6 @@
   },
   {
     "question": "Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, ahol korai eredményt szeretnénk elérni a felhasználó megnyerése érdekében?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Prototípus alapú fejlesztés",
@@ -2699,7 +2589,6 @@
   },
   {
     "question": "Mi jellemzi a biztonságkritikus rendszert?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ne veszélyeztesse az emberi életet.",
@@ -2734,7 +2623,6 @@
   },
   {
     "question": "Mi jellemző a hibatűrő rendszerekre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hiba esetén is képes ellátni főbb funkcióit.",
@@ -2761,7 +2649,6 @@
   },
   {
     "question": "Mi a megbízhatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.",
@@ -2784,7 +2671,6 @@
   },
   {
     "question": "Mi a rendelkezésre állás?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.",
@@ -2807,7 +2693,6 @@
   },
   {
     "question": "Mi a biztonságosság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.",
@@ -2830,7 +2715,6 @@
   },
   {
     "question": "Mi a karbantarthatóság?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.",
@@ -2853,7 +2737,6 @@
   },
   {
     "question": "Melyik állítás igaz a megbízhatóság esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Annak a valószínűségét fejezi ki, hogy a rendszer a [t0, t] intervallumban végig hibátlanul működik, feltéve, hogy t0-ban hibátlanul működött.",
@@ -2876,7 +2759,6 @@
   },
   {
     "question": "Ha egy rendszer megbízható, akkor hibatűrő is?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Nem, a hibatűrés javítja a megbízhatóságot, de ettől még nem biztos, hogy magas lesz a megbízhatóság.",
@@ -2899,7 +2781,6 @@
   },
   {
     "question": "Mi a különbség a megbízhatóság és a rendelkezésre állás között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A megbízhatóság és a rendelkezésre állás között az a különbség, hogy az előbbi a t időpontig tartó folyamatos helyességet fejezi ki, míg az utóbbi csak azt, hogy a t időpontban legyen a működés helyes.",
@@ -2922,7 +2803,6 @@
   },
   {
     "question": "Mit jelent az A(t) >= 0,4 ?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az informatikai rendszer a t időpontban legalább 0,4 valószínűséggel helyesen fog működik.",
@@ -2945,7 +2825,6 @@
   },
   {
     "question": "Mit jelent az S(t) >= 0,7 ?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az informatikai rendszer a t időpontban legalább 0,7 valószínűséggel biztonságosan fog működni.",
@@ -2968,7 +2847,6 @@
   },
   {
     "question": "Mit jelent az M(t) >= 0,9 ?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az informatikai rendszer t idő alatt legalább 0,9 valószínűséggel újra üzemképes állapotba hozható.",
@@ -2991,7 +2869,6 @@
   },
   {
     "question": "Mely állítások igazak a BIST esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A built-in self-testing rövidítése.",
@@ -3018,7 +2895,6 @@
   },
   {
     "question": "Mi a verifikáció?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az a folyamat, amelyben meghatározzuk, hogy a vizsgált informatikai rendszer szoftvere teljesíti-e mindazokat a követelményeket, amelyeket egy előző fázisban specifikáltak a szoftver fejlesztési vagy előállítási folyamatában.",
@@ -3041,7 +2917,6 @@
   },
   {
     "question": "Mi a validáció?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A teljes szoftver vizsgálata és kiértékelése azzal a céllal, hogy meghatározzuk, minden szempontból megfelel-e a felhasználói követelményeknek.",
@@ -3064,7 +2939,6 @@
   },
   {
     "question": "Ha tökéletesen végrehajtjuk a verifikációs folyamatot, akkor az garantálja a végtermék tökéletes felhasználhatóságát?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Nem. Amit garantálni lehet, az a kiindulási specifikációval való ekvivalencia teljesülése.",
@@ -3091,7 +2965,6 @@
   },
   {
     "question": "Biztonságkritikus rendszer esetén mit kell igazolni a validáció során?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A funkcionális megfelelőséget.",
@@ -3118,7 +2991,6 @@
   },
   {
     "question": "Az alábbiak közül melyik igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A verifikáció arra ad választ, hogy a termék előállítása helyesen történt-e.",
@@ -3141,7 +3013,6 @@
   },
   {
     "question": "Előfordulhat-e, hogy nincs szükség a validációs vagy a verifikációs folyamatra?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Igen. Bizonyos esetekben, ha a kiindulási specifikációban nincsen semmilyen hiányosság, akkor nincs szükség a validációra.",
@@ -3168,7 +3039,6 @@
   },
   {
     "question": "Mit fejez ki a V modell lefelé haladó ága?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A tervezési és létrehozási folyamatot.",
@@ -3191,7 +3061,6 @@
   },
   {
     "question": "Mit fejez ki a V modell felfelé haladó ága?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A tesztelési és ellenőrzési folyamatot.",
@@ -3214,7 +3083,6 @@
   },
   {
     "question": "Az alábbiak közül melyek a V modell életciklusának állomásai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Követelmények specifikálása",
@@ -3241,7 +3109,6 @@
   },
   {
     "question": "Az alábbiak közül melyek a V modell életciklusának állomásai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Architektúra tervezés",
@@ -3268,7 +3135,6 @@
   },
   {
     "question": "Az alábbiak közül melyek a V modell életciklusának állomásai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Rendszer integrálása és tesztelése",
@@ -3295,7 +3161,6 @@
   },
   {
     "question": "Mi a V modell életciklusának befejező állomásai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Bizonylatolás, majd a rendszer üzemeltetése",
@@ -3318,7 +3183,6 @@
   },
   {
     "question": "V modell esetén mely fázis eredményeként áll elő a biztonsági követelmények dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hazárdok és kockázatok elemzése",
@@ -3341,7 +3205,6 @@
   },
   {
     "question": "V modell esetén mely fázis eredményeként állnak elő a hardver és szoftver tervdokumentációk?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Architekturális tervezés",
@@ -3360,7 +3223,6 @@
   },
   {
     "question": "V modell esetén az üzemeltetés és karbantartás fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A biztonsági követelmények dokumentációja",
@@ -3379,7 +3241,6 @@
   },
   {
     "question": "V modell esetén a bizonylatolás fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A biztonsági követelmények dokumentációja",
@@ -3394,7 +3255,6 @@
   },
   {
     "question": "V modell esetén a teljes rendszer validálása fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A biztonsági követelmények dokumentációja",
@@ -3413,7 +3273,6 @@
   },
   {
     "question": "V modell esetén a teljes rendszer verifikálása fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer terve, és a teljes rendszer-specifikáció",
@@ -3432,7 +3291,6 @@
   },
   {
     "question": "V modell esetén a szoftver-modulok összeintegrálása fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A modulok terve, és a teljes rendszer terve",
@@ -3451,7 +3309,6 @@
   },
   {
     "question": "V modell esetén a modulok elkészítése és tesztelése fázisnak mi a bemeneti dokumentációja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A modulok terve",
@@ -3474,7 +3331,6 @@
   },
   {
     "question": "Mi igaz az inkrementális tesztelésre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy kiindulási, minimális számú modulhoz egymás után illesztjük a bővítésként szolgáló modulokat.",
@@ -3505,7 +3361,6 @@
   },
   {
     "question": "Mi igaz a big bang tesztelésre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az összes modult egyszerre rakjuk össze.",
@@ -3532,7 +3387,6 @@
   },
   {
     "question": "V modell esetén mi történik az architekturális tervezés fázisban?",
-    "selectCount": 1,
     "options": [
       {
         "text": "El kell dönteni, hogy mely funkciók legyenek megvalósítva hardver, és melyek szoftver által.",
@@ -3555,7 +3409,6 @@
   },
   {
     "question": "Mi a HW-SW co-design?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ebben a megközelítésben a tervezési folyamatnak csak egy későbbi szakaszában dől el a HW-SW-megosztás.",
@@ -3578,7 +3431,6 @@
   },
   {
     "question": "Mi a hazárd?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Olyan helyzet, amely valóságos vagy lehetséges veszélyt jelent az emberek vagy a környezet számára.",
@@ -3605,7 +3457,6 @@
   },
   {
     "question": "Mi a kockázat?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy hazárdhoz kapcsolódó események és azok következményei, valószínűségi alapon. Azt fejezi ki, hogy milyen valószínűségű veszélyes következményei lehetnek egy hazárdnak.",
@@ -3632,7 +3483,6 @@
   },
   {
     "question": "Mit nevezünk mérföldkőnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy kiemelt teljesítési időpont egy projekt menetében.",
@@ -3659,7 +3509,6 @@
   },
   {
     "question": "Fejlesztési projekt esetén mit jelent a függőség?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy mérföldkőtől kiinduló tevékenységek csak akkor kezdődhetnek el, ha a mérföldkőbe befutó tevékenységek már befejeződtek.",
@@ -3682,7 +3531,6 @@
   },
   {
     "question": "Mi igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "T6 tevékenység megkezdéséhez T3 tevékenységnek be kell fejeződnie.",
@@ -3713,7 +3561,6 @@
   },
   {
     "question": "Hogyan ábrázoljuk a mérföldköveket?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Lekerekített sarkú téglalap",
@@ -3740,7 +3587,6 @@
   },
   {
     "question": "Mire szolgál a tevékenységek és a mérföldkövek grafikus ábrázolása?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Időbeli összefüggések, időbeli kapcsolatok leírására.",
@@ -3763,7 +3609,6 @@
   },
   {
     "question": "Mi igaz az alábbi jelölés esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "T3, T6 (M3)",
@@ -3790,7 +3635,6 @@
   },
   {
     "question": "Mi igaz az ütemezési terv esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felsoroljuk a tevékenységeket, meghatározzuk mindegyiknek az időtartamát.",
@@ -3817,7 +3661,6 @@
   },
   {
     "question": "Mivel ábrázolhatjuk grafikusan az ütemezési tervet?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tevékenységi diagram",
@@ -3844,7 +3687,6 @@
   },
   {
     "question": "Mi igaz az alábbi tevékenységi diagram (részlet) esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A START állapotot pszeudó mérföldkőnek is nevezzük.",
@@ -3867,7 +3709,6 @@
   },
   {
     "question": "Mi igaz a projekt-ütemezési táblázat esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tevékenységenként tartalmazza a tevékenységhez szükséges időt.",
@@ -3894,7 +3735,6 @@
   },
   {
     "question": "Mit nevezünk kritikus útnak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az egymás után elvégzendő tevékenységek azon sorozata, amely meghatározza a projekt teljes időtartamát.",
@@ -3917,7 +3757,6 @@
   },
   {
     "question": "Mi igaz az alábbi kifejezés esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "CP=T2+T4+T7=5+12+9=26",
@@ -3948,7 +3787,6 @@
   },
   {
     "question": "Mit nevezünk pszeudó-mérföldkőnek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tevékenységi diagramon a START állapotot.",
@@ -3979,7 +3817,6 @@
   },
   {
     "question": "Az alábbi tevékenység diagram részleten mire utal az END állapot melletti 60-as szám?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az END mérföldkő időpontja a kezdéstől számított 60. hét.",
@@ -4002,7 +3839,6 @@
   },
   {
     "question": "Mi látható az ábrán és mire szolgál?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az ábrán egy Gantt-diagram látható. A projekt ütemezési tervének grafikus megjelenésére szolgál.",
@@ -4025,7 +3861,6 @@
   },
   {
     "question": "Mi igaz a Gantt-diagram esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az egyes tevékenységeket egy vízszintes szakaszon ábrázoljuk.",
@@ -4052,7 +3887,6 @@
   },
   {
     "question": "A tevékenységi diagram és a Gantt-diagram információ hordozás szempontjából egymással ekvivalens?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Igen, mindkettő segítségével az ütemezési tervet ábrázolhatjuk.",
@@ -4079,7 +3913,6 @@
   },
   {
     "question": "Mi igaz a tartalékidő esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Angol megnevezése a slack time.",
@@ -4106,7 +3939,6 @@
   },
   {
     "question": "Az alábbi diagram részlet esetén mely állítások igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "T3 tevékenység tartalékideje 9 hét.",
@@ -4141,7 +3973,6 @@
   },
   {
     "question": "Mely állítások igazak az alábbi diagram részlet esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "T6 és T8 tevékenységek együttes tartalékideje 6 hét.",
@@ -4168,7 +3999,6 @@
   },
   {
     "question": "Az alábbiak közül melyek nevezhetőek modulnak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Szubrutin",
@@ -4195,7 +4025,6 @@
   },
   {
     "question": "Milyen következtetést vonhatunk le a C(f1+f2) > C(f1) + C(f2) és E(f1+f2) > E(f1) + E(f2) egyenlőtlenségekből?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Könnyebb megoldani egy komplex feladatot úgy, hogy kezelhető részekre bontjuk, és a részfeladatokat külön-külön oldjuk meg.",
@@ -4218,7 +4047,6 @@
   },
   {
     "question": "Mely állítások igazak az alábbiak közül?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Minél több modulra bontjuk a szoftvert, annál kisebb erőfeszítés kell egy-egy modul kifejlesztéséhez.",
@@ -4245,7 +4073,6 @@
   },
   {
     "question": "Mi állapítható meg az alábbi ábráról?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az 1. görbe mutatja az integrálási költséget.",
@@ -4284,7 +4111,6 @@
   },
   {
     "question": "A ráfordítási költségek számítása esetén mi igaz az M értékre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Megadja az optimális modulszámot.",
@@ -4311,7 +4137,6 @@
   },
   {
     "question": "Ráfordítási költségek esetén minek az ismeretében határozhatjuk meg (közelítőleg) M értékét?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Integrálási költség",
@@ -4338,7 +4163,6 @@
   },
   {
     "question": "Mi igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "„A” szoftver modul hívhatja „B” szoftver modult.",
@@ -4373,7 +4197,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "„a” fan-in értéke 1.",
@@ -4408,7 +4231,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az „r” modulnak a legnagyobb a fan-in értéke.",
@@ -4435,7 +4257,6 @@
   },
   {
     "question": "Mely állítás igaz a szoftver hívási gráf esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A modulokat téglalapok formájában ábrázoljuk.",
@@ -4462,7 +4283,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az „m-p-r” egy hívási lánc.",
@@ -4489,7 +4309,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az „e” modul hívási szintje 2.",
@@ -4516,7 +4335,6 @@
   },
   {
     "question": "Milyen jellemző tulajdonságai vannak egy hívási gráfnak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hívási lánc",
@@ -4543,7 +4361,6 @@
   },
   {
     "question": "Milyen jellemző tulajdonságai vannak egy hívási gráfnak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Hívási mélység",
@@ -4570,7 +4387,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "M=18",
@@ -4605,7 +4421,6 @@
   },
   {
     "question": "Hívási gráf esetén mi határozza meg a rendszerméretet?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Modulok száma",
@@ -4640,7 +4455,6 @@
   },
   {
     "question": "Az alábbiak közül melyek a teljes rendszerre vonatkozó mérőszámok?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Code length",
@@ -4667,7 +4481,6 @@
   },
   {
     "question": "Az alábbiak közül melyek a forráskódra vonatkozó mérőszámok?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Halstead-számok",
@@ -4694,7 +4507,6 @@
   },
   {
     "question": "Az alábbiak közül melyek az architektúrára vonatkozó mérőszámok?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Card és Glass mérőszámai",
@@ -4721,7 +4533,6 @@
   },
   {
     "question": "Az alábbi állítások közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A KLOC a teljes rendszerre vonatkozik.",
@@ -4748,7 +4559,6 @@
   },
   {
     "question": "Az Alábbi állítások közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A funkció-orientált számok a teljes rendszerre vonatkoznak.",
@@ -4775,7 +4585,6 @@
   },
   {
     "question": "Mit ad meg a LOC?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A forráskód sorainak a számát.",
@@ -4802,7 +4611,6 @@
   },
   {
     "question": "Mely állítás igaz az alábbiak közül?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A LOC a Line of Code rövidítése.",
@@ -4833,7 +4641,6 @@
   },
   {
     "question": "Az alábbiak közül melyik igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "1 KLOC = 1000 LOC",
@@ -4864,7 +4671,6 @@
   },
   {
     "question": "Funkciópont számítás esetén milyen működési részterületekkel dolgozunk?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felhasználói bemenetek száma.",
@@ -4891,7 +4697,6 @@
   },
   {
     "question": "Funkciópont számítás esetén milyen működési részterületekkel dolgozunk?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felhasználói lekérdezések száma.",
@@ -4918,7 +4723,6 @@
   },
   {
     "question": "Az alábbiak közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A funkciópont funkció-orientált szám.",
@@ -4945,7 +4749,6 @@
   },
   {
     "question": "Az alábbiak közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Funkciópont számításnál 5 meghatározott működési részterületet veszünk alapul.",
@@ -4972,7 +4775,6 @@
   },
   {
     "question": "Egy szoftverre vonatkozó funkciók száma és azok súlyértékei láthatóak pontosvesszővel tagolva, ahol az első érték a funkció száma, második a súlyérték. Milyen funkciópontokkal rendelkezik a szoftver?",
-    "selectCount": 1,
     "options": [
       {
         "text": "2;1",
@@ -5019,7 +4821,6 @@
   },
   {
     "question": "Legyen p1 és p2 szoftverek. A p1 szoftver összesített funkciópontja 120, a p2 szoftver összesített funkciópontja 42. Funkcionálisan mely szoftver értékesebb?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A p1 szoftver értékesebb, mert magasabb az összesített funkciópontja.",
@@ -5046,7 +4847,6 @@
   },
   {
     "question": "Milyen alapszámok találhatóak Halstead mérőszám rendszerében?",
-    "selectCount": 1,
     "options": [
       {
         "text": "n1: a programban található különböző műveletek (operátorok), ill. műveleti jelek száma.",
@@ -5073,7 +4873,6 @@
   },
   {
     "question": "Milyen alapszámok találhatóak Halstead mérőszám rendszerében?",
-    "selectCount": 1,
     "options": [
       {
         "text": "N1: az összes előforduló műveletek, ill. műveleti jelek száma a programban.",
@@ -5100,7 +4899,6 @@
   },
   {
     "question": "Az alábbiak közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A Halstead-féle mérőszámok a forráskódra vonatkoznak.",
@@ -5127,7 +4925,6 @@
   },
   {
     "question": "Az alábbiak közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Halstead 3 mérőszámot definiált.",
@@ -5154,7 +4951,6 @@
   },
   {
     "question": "Halstead milyen mérőszámokat vezetett be?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A forráskód becsült hossza.",
@@ -5185,7 +4981,6 @@
   },
   {
     "question": "Hogyan számítható a forráskód becsült hossza Halstead mérőszáma alapján?",
-    "selectCount": 1,
     "options": [
       {
         "text": "N(b) = n1 * log2 n1 + n2 * log2 n2",
@@ -5212,7 +5007,6 @@
   },
   {
     "question": "Hogyan számítható a forráskód aktuális hossza Halstead mérőszáma alapján?",
-    "selectCount": 1,
     "options": [
       {
         "text": "N=N1+N2",
@@ -5239,7 +5033,6 @@
   },
   {
     "question": "Hogyan számítható a program tárgykódjának volumene Halstead mérőszáma alapján?",
-    "selectCount": 1,
     "options": [
       {
         "text": "V = N * log2 (n1 + n2)",
@@ -5266,7 +5059,6 @@
   },
   {
     "question": "Halstead mérőszámai közül mit fejez ki a „V” értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az elkészült program bonyolultságát.",
@@ -5293,7 +5085,6 @@
   },
   {
     "question": "Mitől függ MC értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A logikai döntések számától.",
@@ -5320,7 +5111,6 @@
   },
   {
     "question": "Hogyan számolható MC értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "MC=D+1",
@@ -5347,7 +5137,6 @@
   },
   {
     "question": "Az alábbiak közül mely igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A McCabe-féle szám a forráskódra vonatkozik.",
@@ -5370,7 +5159,6 @@
   },
   {
     "question": "Vegyük az alábbi folyamat-diagramot. Mennyi MC értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "MC=4",
@@ -5397,7 +5185,6 @@
   },
   {
     "question": "Az alábbiak közül mely igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A McCabe-féle szám esetén a cél az MC értékének minimális szinten tartása.",
@@ -5420,7 +5207,6 @@
   },
   {
     "question": "Egy szoftver modul esetén MC = 26. Mire tudunk ebből következtetni?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A modul logikai elágazásainak száma 25.",
@@ -5451,7 +5237,6 @@
   },
   {
     "question": "A Card és Glass mérőszámai miről adnak információt?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A modulok információs kapcsolatáról.",
@@ -5474,7 +5259,6 @@
   },
   {
     "question": "Milyen mérőszámokat vezetett be Card és Glass?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Strukturális komplexitás",
@@ -5501,7 +5285,6 @@
   },
   {
     "question": "Milyen mérőszámokat vezetett be Card és Glass?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Modul-komplexitás",
@@ -5528,7 +5311,6 @@
   },
   {
     "question": "Card és Glass mérőszámai esetén mi az S(i) érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "S(i) = fan-out(i)^2",
@@ -5555,7 +5337,6 @@
   },
   {
     "question": "Card és Glass mérőszámai esetén mi a D(i) érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "D(i) = v(i) / (fan-out(i) + 1)",
@@ -5582,7 +5363,6 @@
   },
   {
     "question": "Card és Glass mérőszámai esetén mi a C(i) érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "C(i) = S(i) + D(i)",
@@ -5609,7 +5389,6 @@
   },
   {
     "question": "Card és Glass mérőszámai esetén mi az AC érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "AC = C(1) + C(2) + C(3) + … + C(M-1) + C(M)",
@@ -5640,7 +5419,6 @@
   },
   {
     "question": "Card és Glass mérőszámai esetén mi a v(i) érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az i-edik modul be- és kimeneti hívási paramétereinek száma.",
@@ -5667,7 +5445,6 @@
   },
   {
     "question": "Egy szoftver modul szétágazásainak száma 3, input és output változóinak együttes darabszáma 8. Mekkora a modul strukturális komplexitása?",
-    "selectCount": 1,
     "options": [
       {
         "text": "9",
@@ -5694,7 +5471,6 @@
   },
   {
     "question": "Egy szoftver modul szétágazásainak száma 3, input és output változóinak együttes darabszáma 8. Mekkora a modul adat-komplexitása?",
-    "selectCount": 1,
     "options": [
       {
         "text": "2",
@@ -5721,7 +5497,6 @@
   },
   {
     "question": "Egy szoftver modul strukturális komplexitása 9, adat-komplexitása 2, input és output változóinak együttes darabszáma 8. Mekkora a modul-komplexitása?",
-    "selectCount": 1,
     "options": [
       {
         "text": "11",
@@ -5748,7 +5523,6 @@
   },
   {
     "question": "Egy szoftver rendszer 4 modulból épül fel, melyek modul-komplexitási értékei sorra 2, 4, 3 és 5. Mekkora az architekturális-komplexitás?",
-    "selectCount": 1,
     "options": [
       {
         "text": "14",
@@ -5775,7 +5549,6 @@
   },
   {
     "question": "Az alábbi ábra esetén mi lehet a koordináta tengelyek neve?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízszintes tengely: architekturális komplexitás, függőleges tengely: Hiba / 1 KLOC",
@@ -5806,7 +5579,6 @@
   },
   {
     "question": "Card és Glass kutatásaik eredményeként milyen kapcsolatot vélt felfedezni az architekturális komplexitás és a szoftver hibák között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A két mérték között lineáris kapcsolat van.",
@@ -5833,7 +5605,6 @@
   },
   {
     "question": "Az alábbiak közül mely állítás igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Card és Glass mérőszámai nem veszik figyelembe az összeágazásokat.",
@@ -5872,7 +5643,6 @@
   },
   {
     "question": "Miként definiálta Henry és Kafura a komplexitási mérőszámot?",
-    "selectCount": 1,
     "options": [
       {
         "text": "HKM(i) = L(i) * (fan-in(i) + fan-out(i))^2",
@@ -5899,7 +5669,6 @@
   },
   {
     "question": "Henry és Kafura mérőszámában mi az L(i) érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az i-edik modul forráskódjának hossza.",
@@ -5922,7 +5691,6 @@
   },
   {
     "question": "Miként kapjuk a teljes szoftver komplexitását?",
-    "selectCount": 1,
     "options": [
       {
         "text": "HKM = HKM(1) + HKM(2) + HKM(3) + … + HKM(M-1) + HKM(M)",
@@ -5949,7 +5717,6 @@
   },
   {
     "question": "McCabe miként definiálta a teljes rendszer komplexitását?",
-    "selectCount": 1,
     "options": [
       {
         "text": "McCabe nem definiálta a teljes rendszer komplexitását.",
@@ -5972,7 +5739,6 @@
   },
   {
     "question": "Az alábbiak közül mely igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A HKM az architektúrára vonatkozik.",
@@ -6007,7 +5773,6 @@
   },
   {
     "question": "Egy szoftver projekt tervének milyen fő összetevői vannak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A fejlesztés célja.",
@@ -6038,7 +5803,6 @@
   },
   {
     "question": "Mi a Rayleigh-függvény?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Megadja a szükséges emberi erőforrást az idő függvényében.",
@@ -6061,7 +5825,6 @@
   },
   {
     "question": "Minek a becslésére lehet alkalmas a Rayleigh-eloszlás?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Emberi ráfordítás",
@@ -6096,7 +5859,6 @@
   },
   {
     "question": "Az alábbiak közül melyek igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A Rayleigh-eloszlás az emberi ráfordítást határozza meg az idő függvényében.",
@@ -6123,7 +5885,6 @@
   },
   {
     "question": "Mi az RC(t)?",
-    "selectCount": 1,
     "options": [
       {
         "text": "RC(t) = t / (k^2) * e^(-t^2 / (2 * k^2))",
@@ -6146,7 +5907,6 @@
   },
   {
     "question": "Mi jellemző a Rayleigh függvény-görbe menetére?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Értéke kezdetben nulla, majd hirtelen növekedésbe kezd, míg végül eléri a maximális „k” értékét, ami után a kezdeti növekedéshez képest lassabb ereszkedésbe zárul.",
@@ -6169,7 +5929,6 @@
   },
   {
     "question": "Hogyan nevezné el az egyes tengelyeket? Mit jelöl a „k” érték?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vízszintes tengely: idő, függőleges tengely: emberi ráfordítás",
@@ -6200,7 +5959,6 @@
   },
   {
     "question": "Mi az AVC?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Kódsorok átlagos száma funkciópontonként.",
@@ -6227,7 +5985,6 @@
   },
   {
     "question": "Mely állítások igazak az alábbi képlet esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Ráfordítás = A * W * Méret^B",
@@ -6258,7 +6015,6 @@
   },
   {
     "question": "Mit ad meg az AVC * FP szorzat eredménye?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Kódméret",
@@ -6285,7 +6041,6 @@
   },
   {
     "question": "Mi igaz az alábbi kifejezés esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "4E→2H,8E→4H,6E→3H",
@@ -6320,7 +6075,6 @@
   },
   {
     "question": "Az alábbi esetben mennyi LSZ értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "5E→2H,9E→1H,3E→2H",
@@ -6347,7 +6101,6 @@
   },
   {
     "question": "Mi az LSZ értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "(E_1 * H_1 + E_2 * H_2 + … + E_n * H_n) / (H_1 + H_2 + … + H_n)",
@@ -6374,7 +6127,6 @@
   },
   {
     "question": "Mi az NH értéke?",
-    "selectCount": 1,
     "options": [
       {
         "text": "H_1 + H_2 + … + H_n",
@@ -6405,7 +6157,6 @@
   },
   {
     "question": "Egy projekt esetén LSZ = 5E. Mely projekt megoszlás esetén igaz ez?",
-    "selectCount": 1,
     "options": [
       {
         "text": "7E→1H,4E→2H",
@@ -6432,7 +6183,6 @@
   },
   {
     "question": "A COCOMO-modell alapján miként kaphatjuk meg az emberhónap értékét?",
-    "selectCount": 1,
     "options": [
       {
         "text": "EH = a * KLOC^b",
@@ -6459,7 +6209,6 @@
   },
   {
     "question": "Az alábbiak közül melyik lehet az emberhónap a COCOMO-modell esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "EH = 2,4 * KLOC^1,05",
@@ -6482,7 +6231,6 @@
   },
   {
     "question": "A COCOMO-modell alapján miként kaphatjuk meg az naptári hónap értékét?",
-    "selectCount": 1,
     "options": [
       {
         "text": "NH = c * EH^d",
@@ -6509,7 +6257,6 @@
   },
   {
     "question": "Boehm a modelljében milyen kategóriákba sorolta a szoftvereket?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Normál szoftverek",
@@ -6540,7 +6287,6 @@
   },
   {
     "question": "Az alábbi ábra esetén milyen címkéket írni a számokkal jelzett helyekre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "NH, 2: EH, 3: KLOC",
@@ -6567,7 +6313,6 @@
   },
   {
     "question": "A COCOMO-modell alapján miként kaphatjuk meg az átlagos ráfordítási létszámot?",
-    "selectCount": 1,
     "options": [
       {
         "text": "LSZ = (a * KLOC^b) / (c * a^d * KLOC^(b*d))",
@@ -6594,7 +6339,6 @@
   },
   {
     "question": "Az alábbiak közül mely állítás igaz?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Boehm modellje csak a KLOC értékétől függ.",
@@ -6617,7 +6361,6 @@
   },
   {
     "question": "Boehm modelljében mi az alapvető különbség a normál és az összetett szoftver között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A normális szoftver nem függ a környezettől, nincsenek kapcsolatai, míg az összetett szoftver környezetfüggő, külső kapcsolatokkal rendelkezik.",
@@ -6640,7 +6383,6 @@
   },
   {
     "question": "Mely állítás igaz a COCOMO-modell esetén?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az EH görbéje gyorsabban növekszik, mint a kódméret.",
@@ -6667,7 +6409,6 @@
   },
   {
     "question": "Mit jelent a „Use case”?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A felhasználótól / megrendelőtől kapott megvalósítási részletek gyűjtőneve, használati eset.",
@@ -6686,7 +6427,6 @@
   },
   {
     "question": "Mit értünk „business case” alatt?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Üzleti igény, vagy üzleti gyakorlat, ügymenet, mely sok esetben kiváltja a fejlesztést.",
@@ -6701,7 +6441,6 @@
   },
   {
     "question": "Mik az UML általános szerepei a fejlesztésben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vizuálisan specifikálja, megjeleníti, ill. dokumentálja egy szoftver-fejlesztés fázisainak eredményét.",
@@ -6728,7 +6467,6 @@
   },
   {
     "question": "Mi a különbség egy rendszer statikus és dinamikus nézete között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A dinamiuks nézet az OO elemek közötti állandó kapcsolatokat dokumentálja, míg a statikus nézet a futás közbeni változásokat mutatja.",
@@ -6743,7 +6481,6 @@
   },
   {
     "question": "Mik tartoznak az UML statikus diagramjai közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Osztálydiagram",
@@ -6778,7 +6515,6 @@
   },
   {
     "question": "Mik tartoznak az UML dinamikus diagramjai közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Use case",
@@ -6809,7 +6545,6 @@
   },
   {
     "question": "Mik tartoznak a rendszer határainak meghúzásához?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Anyagi",
@@ -6828,7 +6563,6 @@
   },
   {
     "question": "Mi a felhasználói követelmények három csoportja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Szakmai",
@@ -6855,7 +6589,6 @@
   },
   {
     "question": "Az alábbiak közül melyek funkcionális követelmények?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A megrendelő kijelenti, hogy a nyilvántartott termék típusát betűk jelzik.",
@@ -6902,7 +6635,6 @@
   },
   {
     "question": "Az alábbiak közül melyek nem-funkcionális követelmények?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A megrendelő kijelenti, hogy a nyilvántartott termék típusát betűk jelzik.",
@@ -6949,7 +6681,6 @@
   },
   {
     "question": "Az alábbiak közül melyek minősülnek szakterületi követelménynek?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Orvosi rendszer esetén: Menük a jobb oldalon legyenek.",
@@ -6968,7 +6699,6 @@
   },
   {
     "question": "Funkcionális követelmények UML használata esetén mivel írhatóak le?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Telepítési és csomagdiagram",
@@ -6999,7 +6729,6 @@
   },
   {
     "question": "Az alábbiak közül melyek tartoznak a Use Case diagram elemei közé?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Actor",
@@ -7030,7 +6759,6 @@
   },
   {
     "question": "Válassza ki egy funkció feljesztésének működőképes sorrendjét",
-    "selectCount": 1,
     "options": [
       {
         "text": "Követelmények összegyűjtése  Tesztelés  Elemzés  Tervezés  Implementáció  Kibocsátás",
@@ -7053,7 +6781,6 @@
   },
   {
     "question": "Milyen módokon fejthető ki jobban egy Use Case?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Grafikusan aktivitási diagrammal",
@@ -7092,7 +6819,6 @@
   },
   {
     "question": "Mi a követelmény?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Olyan szolgáltatás, melynek teljesítését elvárjuk a tervezett alkalmazástól.",
@@ -7119,7 +6845,6 @@
   },
   {
     "question": "Követelmények csoportosítása esetén milyen csoportosítás elképzelhető?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Belső és külső követlemények",
@@ -7138,7 +6863,6 @@
   },
   {
     "question": "Mi a követelménymenedzsment célja?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Cél a követelmények változásának követhetősége",
@@ -7161,7 +6885,6 @@
   },
   {
     "question": "Miért van szükség a követelmények priorizálására?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Mert így egyértelműen látszik, hogy melyeket nem kell megvalósítani.",
@@ -7180,7 +6903,6 @@
   },
   {
     "question": "Hány normál és hány alternatív működés tartozhat egy use case-hez?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy normál és az ésszerűség keretein belül tetszőlegesen sok alternatív",
@@ -7203,7 +6925,6 @@
   },
   {
     "question": "Milyen reláció van use case és forgatókönyvek között? Jelölje az igaz állításokat",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy use casehez kötelezően egy forgatókönyv tartozik",
@@ -7234,7 +6955,6 @@
   },
   {
     "question": "Forgatókönyvek az UML részét képezik?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Nem",
@@ -7249,7 +6969,6 @@
   },
   {
     "question": "Mik a jó forgatókönyv tulajdonságai?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Felhasználó szemszögéből van írva",
@@ -7284,7 +7003,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Felhasználói követelmény.",
-    "selectCount": 1,
     "options": [
       {
         "text": "A felhasználónak a projekttel szemben támasztott költségvetése.",
@@ -7331,7 +7049,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Nem funkcionális követelmény.",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer funkcióival és szolgáltatásaival kapcsolatos megszorítások",
@@ -7346,7 +7063,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Szakterületi követelmény.",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer szakterületén alkalmazott előírások és megszorítások",
@@ -7369,7 +7085,6 @@
   },
   {
     "question": "Az alábbiak közül mi a szakterületi követelmények jellemzője?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Természetesen lehetnek funkcionális és nem funkcionális követelmények",
@@ -7388,7 +7103,6 @@
   },
   {
     "question": "A fejlesztés során mikorra áll elő a use case modell?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A legtöbb esetben a tervezés végére.",
@@ -7411,7 +7125,6 @@
   },
   {
     "question": "Mik a use case modell jellemzői?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tervezett funkcionalitást írja le",
@@ -7430,7 +7143,6 @@
   },
   {
     "question": "Mik a use case modell elemei?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Aktorok",
@@ -7457,7 +7169,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Use Case egy use case modellben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Olyan cselekvések, melyeket a felhasználó végez.",
@@ -7476,7 +7187,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Aktor egy use case modellben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer határán kívül vannak, a rendszerrel kapcsolatba kerülnek, hogy a rendszerrel feladatokat (szoftverfunkciók) hajtsanak végre",
@@ -7491,7 +7201,6 @@
   },
   {
     "question": "Melyik definíció illik leginkább az alábbiak közül erre: Kapcsolat egy use case modellben?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az aktorok és use case-ek közötti viszonyrendszert definiálja",
@@ -7510,7 +7219,6 @@
   },
   {
     "question": "Mik a tipikus jellemzői az aktorok és use case-k megkeresésének?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tipikusan a felhasználótók kapott osztályspecifikáció alapján készítjük őket",
@@ -7533,7 +7241,6 @@
   },
   {
     "question": "Mely állítások igazak az aktorokra?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az aktorok nem kizárólag személyek, lehetnek elemek, dolgok, gépek-berendezések, üzleti egységek, vagy a rendszerrel kapcsolatot létesítő valamely külső rendszerek, rendszerkomponensek",
@@ -7556,7 +7263,6 @@
   },
   {
     "question": "Az alábbi listából melyek minősülhetnek aktornak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Konkrét (természetes személy)",
@@ -7587,7 +7293,6 @@
   },
   {
     "question": "Az alábbi listából mely technikák lehetnek alkalmasak az aktorok azonosítására?",
-    "selectCount": 1,
     "options": [
       {
         "text": "(Leendő) felhasználóval folytatott beszélgetés",
@@ -7626,7 +7331,6 @@
   },
   {
     "question": "Jelölje az aktorokkal kapcsolatos igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy felhasználó többfajta szerepet is játszhat/végezhet, többféle szerepkörben lehet",
@@ -7641,7 +7345,6 @@
   },
   {
     "question": "Jelölje az aktorokkal kapcsolatos igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "A feladatok végrehajtását kezdeményező szereplőket kezdeményező szereplőnek nevezzük",
@@ -7676,7 +7379,6 @@
   },
   {
     "question": "Jelölje az aktorokkal kapcsolatos igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy use case megvalósításában egy aktor vehet részt.",
@@ -7699,7 +7401,6 @@
   },
   {
     "question": "Jelölje az aktorokkal kapcsolatos igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az aktor nevét a szimbólum alá írjuk.",
@@ -7718,7 +7419,6 @@
   },
   {
     "question": "Mely definíciók igazak a use casekre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A use casek a rendszer kívülről látható funkciói, un. kapcsolódási pontok a szoftverrendszert használók és a szoftverrendszer között",
@@ -7745,7 +7445,6 @@
   },
   {
     "question": "Az alábbi listából mely technikák lehetnek alkalmasak az aktorok azonosítására?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az adott területre jellemző felhasználóval való folytatott közös beszélgetések, interjúk.",
@@ -7776,7 +7475,6 @@
   },
   {
     "question": "Mely állítások igazak a use casekre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A követelményspecifikáció munkaszakaszban definiált use case-eket a szakirodalom fekete doboz use case-eknek (black-box use case) nevezi.",
@@ -7791,7 +7489,6 @@
   },
   {
     "question": "Milyen kategorizálás vonatkozhat use casekre?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy use case lehet „kicsi vagy nagy”",
@@ -7814,7 +7511,6 @@
   },
   {
     "question": "Jelölje a use casekkel kapcsolatos igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "use case-eket UML-ben grafikusan egy ellipszis szimbólum jelöli. Egy use case egy diszkrét feladat vagy funciót jelöl.",
@@ -7833,7 +7529,6 @@
   },
   {
     "question": "Use case modellben a kapcsolat irányítottsága (vagy hiánya) mit jelöl?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Közreműködés",
@@ -7860,7 +7555,6 @@
   },
   {
     "question": "Use case diagram aktorok és use casek közötti kapcsolat elemeire mely állítások igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A rendszer szereplői és a use case-ek közötti kapcsolatot egy irányított vonal, nyíl jelöli.",
@@ -7891,7 +7585,6 @@
   },
   {
     "question": "Use case diagram aktorok és use casek közötti kapcsolat elemeire mely állítások igazak?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Egy feladat (use case) végrehajtásában több aktor is közreműködhet.",
@@ -7914,7 +7607,6 @@
   },
   {
     "question": "Use case diagram aktorai közötti kapcsolat…",
-    "selectCount": 1,
     "options": [
       {
         "text": "Öröklődési viszont jelent",
@@ -7929,7 +7621,6 @@
   },
   {
     "question": "Aktorok közötti öröklődés jele:",
-    "selectCount": 1,
     "options": [
       {
         "text": "Telt fehér végű nyíl, mely az ős felé mutat",
@@ -7952,7 +7643,6 @@
   },
   {
     "question": "Milyen speciális viszonyok definiálhatóak aktorok között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Öröklődés",
@@ -7971,7 +7661,6 @@
   },
   {
     "question": "Milyen speciális viszonyok definiálhatóak use casek között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tartalmazás",
@@ -7998,7 +7687,6 @@
   },
   {
     "question": "Jelölje a use casek között értelmezett tartalmazási viszonyra igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szereplő által kezdeményezett (alap vagy normál) use case-ek végrehajtásában vannak olyan részek, lépések, amelyek mindegyik use case végrehajtásakor bekövetkeznek és azonos módon játszódnak le",
@@ -8033,7 +7721,6 @@
   },
   {
     "question": "Jelölje a use casek között értelmezett kiterjesztés viszonyra igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szereplő által kezdeményezett (alap vagy normál) use case-ek végrehajtásában vannak olyan részek, lépések, amelyek mindegyik use case végrehajtásakor bekövetkeznek és azonos módon játszódnak le",
@@ -8068,7 +7755,6 @@
   },
   {
     "question": "Jelölje a use casek között értelmezett öröklődési viszonyra igaz állításokat!",
-    "selectCount": 1,
     "options": [
       {
         "text": "A leszármazott use case örökli a normál use case viselkedését, kapcsolatait.",
@@ -8099,7 +7785,6 @@
   },
   {
     "question": "Mely mezők jelenhetnek meg tipikusan egy követelmény-bejegyzés formalapon?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Megvalósítási ajánlás",
@@ -8134,7 +7819,6 @@
   },
   {
     "question": "Mely állítások igazak a use case realizációra?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Jele egy szaggatott szélű ellipszis",
@@ -8165,7 +7849,6 @@
   },
   {
     "question": "Mit jelent a vezérjel?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Token, adott pillanatban a végrehajtás aktuális pontja",
@@ -8180,7 +7863,6 @@
   },
   {
     "question": "Mit jelent a token?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Vezérjel, adott pillanatban a végrehajtás aktuális pontja",
@@ -8195,7 +7877,6 @@
   },
   {
     "question": "Az alábbiak közül melyik ábrákon van értelmezve a vezérjel?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Tevékenységdiagram",
@@ -8222,7 +7903,6 @@
   },
   {
     "question": "Mit jelent tevékenységdiagramokon a kifejtési jel?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az adott tevékenység később osztálydiagramon lesz kifejtve",
@@ -8241,7 +7921,6 @@
   },
   {
     "question": "Milyen többletjelentést ad tevékenységdiagramon az úszópályák használata?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Megmutatja, melyik use case felelőssége alá tartozik az adott aktivitás",
@@ -8264,7 +7943,6 @@
   },
   {
     "question": "Tevékenységdiagramon az alapértelmezés szerinti szinkronizációs vonal milyen működési logikát valósít meg?",
-    "selectCount": 1,
     "options": [
       {
         "text": "VAGY kapu logikát",
@@ -8279,7 +7957,6 @@
   },
   {
     "question": "Tevékenységdiagramon az alapértelmezés szerinti esetválasztó csúcs milyen működési logikát valósít meg?",
-    "selectCount": 1,
     "options": [
       {
         "text": "VAGY kapu logikát",
@@ -8298,7 +7975,6 @@
   },
   {
     "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre",
@@ -8317,7 +7993,6 @@
   },
   {
     "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre",
@@ -8336,7 +8011,6 @@
   },
   {
     "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik bemenetre",
@@ -8363,7 +8037,6 @@
   },
   {
     "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A „Számla megnyitás” tevékenység közben „Utas” típusú megjegyzést kell generálni.",
@@ -8386,7 +8059,6 @@
   },
   {
     "question": "UML2 esetén mi a különbség az alábbi két aktivitásdiagram részlet között?",
-    "selectCount": 1,
     "options": [
       {
         "text": "A bal oldali ábra értelmezése szerint „Utas keresése” tevékenység során keletkezik egy új „Utas” objektum, míg a jobb oldali ábra szerint csak rendelkezésre áll.",
@@ -8409,7 +8081,6 @@
   },
   {
     "question": "Miért jó ugrópontok használata tevékenységdiagramokon?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Mert így egyszerűbb hivatkozni később részletezett ábrákra",
@@ -8428,7 +8099,6 @@
   },
   {
     "question": "Tevékenységdiagramokon mi a kivételkezelés jele?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Szaggatott, lekerekített téglalap",
@@ -8451,7 +8121,6 @@
   },
   {
     "question": "Az ábrán egy tevékenységdiagram részlet látható. Mit tudunk meg belőle?",
-    "selectCount": 1,
     "options": [
       {
         "text": "Az „Almenü kezelése” tevékenység minden hibatípus ellen védett, és ha bármely bekövetkezik, akkor a „Főmenü kezelése” következik",
@@ -8466,7 +8135,6 @@
   },
   {
     "question": "Ha tevékenységdiagramon az alábbi ábrarészlet látható, akkor milyen programkód részlet megkövetelése várható?",
-    "selectCount": 1,
     "options": [
       {
         "text": "try-catch blokk",
@@ -8485,7 +8153,6 @@
   },
   {
     "question": "UML2 tevékenységdiagramján hogyan kell értelmezni az alábbi ábrarészt:",
-    "selectCount": 1,
     "options": [
       {
         "text": "Külső esemény hatására „KivételTípus” típusú kivételt kell dobni.",

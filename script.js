@@ -3,6 +3,7 @@ let usedIndices = new Set();
 let currentIndex = 0;
 let selectedOptions = [];
 let correctCount = 0;
+let currentOptions = [];   // holds the shuffled options for the current question
 const maxQuestionsPerSession = 40;
 
 function shuffle(arr) {
@@ -77,23 +78,28 @@ function showQuestion() {
     const q = questions[currentIndex];
     const optsSection = document.getElementById('options-section');
     const optsContainer = document.getElementById('options');
-    // Remove any existing instruction paragraph first
+
+    // Remove any existing instruction
     const oldInstruction = optsSection.querySelector('.instruction');
     if (oldInstruction) oldInstruction.remove();
 
-    // Create and append a new one
+    // Create a shuffled copy of options
+    currentOptions = shuffle(q.options.slice());
+
+    // Compute how many must be selected
+    const correctCountForThisQ = currentOptions.filter(o => o.correct).length;
+
+    // Insert instruction
     const instruction = document.createElement('p');
-    instruction.textContent = `Select ${q.selectCount} option(s)!`;
+    instruction.textContent = `Select ${correctCountForThisQ} option${correctCountForThisQ > 1 ? 's' : ''}!`;
     instruction.className = 'instruction';
     optsSection.appendChild(instruction);
 
+    // Reset state
     selectedOptions = [];
     document.getElementById('question-text').innerHTML = q.question;
     optsContainer.innerHTML = '';
     document.getElementById('explanation').innerHTML = '';
-
-    // Figure out how many you must pick
-    const selectCount = q.selectCount || 1;
 
     // Show only Submit
     const submitBtn = document.getElementById('submit-btn');
@@ -102,12 +108,12 @@ function showQuestion() {
     submitBtn.disabled = true;
     nextBtn.style.display = 'none';
 
-    // Render options
-    q.options.forEach((opt, idx) => {
+    // Render each button from shuffled options
+    currentOptions.forEach((opt, idx) => {
         const btn = document.createElement('button');
         btn.textContent = opt.text;
         btn.className = 'option-btn';
-        btn.onclick = () => toggleOption(btn, idx, selectCount);
+        btn.onclick = () => toggleOption(btn, idx, correctCountForThisQ);
         optsContainer.appendChild(btn);
     });
 }
@@ -115,22 +121,19 @@ function showQuestion() {
 function toggleOption(button, idx, maxSelect) {
     const i = selectedOptions.indexOf(idx);
     if (i > -1) {
-        // unselect
         selectedOptions.splice(i, 1);
         button.classList.remove('selected');
     } else if (selectedOptions.length < maxSelect) {
-        // select
         selectedOptions.push(idx);
         button.classList.add('selected');
     }
-    // only enable Submit when exactly the right number are selected
     document.getElementById('submit-btn').disabled =
         selectedOptions.length !== maxSelect;
 }
 
 function handleSubmit() {
     const q = questions[currentIndex];
-    const correctIndices = q.options
+    const correctIndices = currentOptions
         .map((o, i) => o.correct ? i : -1)
         .filter(i => i > -1);
 
@@ -138,29 +141,28 @@ function handleSubmit() {
     document.querySelectorAll('.option-btn').forEach((btn, idx) => {
         btn.disabled = true;
         if (correctIndices.includes(idx)) {
-            btn.style.backgroundColor = '#a4eda6';   // green for correct
+            btn.style.backgroundColor = '#a4eda6';
         } else {
-            btn.style.backgroundColor = '#ffcdd2';   // red for wrong
+            btn.style.backgroundColor = '#ffcdd2';
         }
     });
 
-    // Render explanation as HTML (so <strong>...</strong> and <br> work)
+    // Show explanation
     document.getElementById('explanation').innerHTML = q.explanation;
 
-    // Swap Submit → Next
+    // Swap buttons
     const submitBtn = document.getElementById('submit-btn');
     const nextBtn = document.getElementById('next-btn');
     submitBtn.style.display = 'none';
     nextBtn.style.display = 'inline-block';
     nextBtn.disabled = false;
 
-    // Determine multi-select correctness
+    // Check correctness
     const isAllCorrect = selectedOptions.length === correctIndices.length
         && selectedOptions.every(i => correctIndices.includes(i));
 
     updateProgressBar(isAllCorrect);
 }
-
 
 function handleNext() {
     if (usedIndices.size >= maxQuestionsPerSession || usedIndices.size >= questions.length) {
