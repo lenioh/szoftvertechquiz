@@ -3,8 +3,8 @@ let usedIndices = new Set();
 let currentIndex = 0;
 let selectedOptions = [];
 let correctCount = 0;
-let currentOptions = [];   // holds the shuffled options for the current question
-const maxQuestionsPerSession = 40;
+let currentOptions = [];
+const maxQuestionsPerSession = 30;
 
 function shuffle(arr) {
     for (let i = arr.length - 1; i > 0; i--) {
