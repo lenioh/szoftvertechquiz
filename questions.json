@@ -1,27 +1,5 @@
 [
   {
-    "question": "Minek a rövidítése a RUP?",
-    "options": [
-      {
-        "text": "RationalUnifiedProcess",
-        "correct": true
-      },
-      {
-        "text": "RadicalUndefinedProcess",
-        "correct": false
-      },
-      {
-        "text": "RationalUndefinedProcess",
-        "correct": false
-      },
-      {
-        "text": "RadicalUnifiedProcess",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Melyek a RUP modell fázisai?",
     "options": [
       {
@@ -150,42 +128,6 @@
     "explanation": ""
   },
   {
-    "question": "Mi a scrum?",
-    "options": [
-      {
-        "text": "Agilis szoftverfejlesztési módszer.",
-        "correct": true
-      },
-      {
-        "text": "Utcai harctípus.",
-        "correct": false
-      },
-      {
-        "text": "Gyorsított üzleti eljárás.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Melyek jellemzik a scrum-ot?",
-    "options": [
-      {
-        "text": "sprint, productbacklog, dailyscrum meeting",
-        "correct": true
-      },
-      {
-        "text": "scrumfight, 100 m sprint, relaxingtraining",
-        "correct": false
-      },
-      {
-        "text": "economicplanning, sprint, business meeting",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Kik a scrum résztvevői?",
     "options": [
       {
@@ -227,24 +169,6 @@
       {
         "text": "team munkájának gazdasági elemzése, tanácsadás a megrendelőnek",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi a feladata egy szoftverprojektben a projektmenedzsernek?",
-    "options": [
-      {
-        "text": "kiegészítő munkák, melyekkel könnyebbé teszi a team munkáját",
-        "correct": false
-      },
-      {
-        "text": "team oktatása, team ellenőrzése a projekt végén, jelentések készítése a team felé",
-        "correct": false
-      },
-      {
-        "text": "team összeállítása és vezetése, ütemterv elkészítése, képviselet a külvilág felé",
-        "correct": true
       }
     ],
     "explanation": ""
@@ -502,42 +426,6 @@
     "explanation": ""
   },
   {
-    "question": "Mi a feladata a scrum-ban a Product Ownernek?",
-    "options": [
-      {
-        "text": "Felelős a költségekért, illetve elfogadja vagy visszadobja a kész szoftverrészeket.",
-        "correct": true
-      },
-      {
-        "text": "Felelős a scrum betartásáért és ő finanszírozza a szoftver elkészítését.",
-        "correct": false
-      },
-      {
-        "text": "Biztosítja, hogy a team hatékonyan tudjon dolgozni, illetve folyamatosan ellenőrzi a team munkáját.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi a feladata a scrum-ban a Scrum Masternek?",
-    "options": [
-      {
-        "text": "Felelős a scrum betartásáért és biztosítja, hogy a csapat hatékony és termelékeny legyen.",
-        "correct": true
-      },
-      {
-        "text": "A gazdasági támogatás a legfőbb feladata.",
-        "correct": false
-      },
-      {
-        "text": "Elfogadja vagy visszadobja a kész szoftverrészeket.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mi a feladata a scrum-ban a Teamnek?",
     "options": [
       {
@@ -569,28 +457,6 @@
       {
         "text": "A sprint burndown chart része.",
         "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely állítás nem igaz a daily scrum-ra?",
-    "options": [
-      {
-        "text": "Állva történik.",
-        "correct": false
-      },
-      {
-        "text": "Nagyon rövid (kb. 15 perc).",
-        "correct": false
-      },
-      {
-        "text": "Során megoldják a felmerülő problémákat.",
-        "correct": true
-      },
-      {
-        "text": "Megbeszélik, hogy ki mit végez el.",
-        "correct": false
       }
     ],
     "explanation": ""
@@ -652,24 +518,6 @@
       },
       {
         "text": "A szoftver elkészítése.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi a sprint backlog?",
-    "options": [
-      {
-        "text": "A product backlog része, amit a sprint alatt teljesíteni kell.",
-        "correct": true
-      },
-      {
-        "text": "A product owner által meghatározott tevékenységek.",
-        "correct": false
-      },
-      {
-        "text": "A scrum master által megírt tevékenységlista, mely nem bővíthető, pontosan be kell tartani.",
         "correct": false
       }
     ],
@@ -768,28 +616,6 @@
       },
       {
         "text": "A folyamatok mérhetőek és ellenőrzöttek.",
-        "correct": false
-      },
-      {
-        "text": "A folyamatok kiszámíthatatlanok, gyengén ellenőrzöttek.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi jellemző a CMMI „Mennyiségileg menedzselt” érettségi szintére?",
-    "options": [
-      {
-        "text": "A folyamatok mérhetőek és ellenőrzöttek.",
-        "correct": true
-      },
-      {
-        "text": "A hangsúly a folyamatok tökéletesítésén van.",
-        "correct": false
-      },
-      {
-        "text": "A folyamatok a szervezetre szabottak és biztonságosabbak.",
         "correct": false
       },
       {
@@ -1016,32 +842,6 @@
     "explanation": ""
   },
   {
-    "question": "Hogyan szokás még nevezni a generikus terméket?",
-    "options": [
-      {
-        "text": "Generic product",
-        "correct": true
-      },
-      {
-        "text": "Becsomagolt termék",
-        "correct": true
-      },
-      {
-        "text": "Bedobozolt termék",
-        "correct": true
-      },
-      {
-        "text": "Zárt termék",
-        "correct": false
-      },
-      {
-        "text": "Bespoken product",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Melyik az a szoftver termék, melynek specifikálását, tervezését, létrehozását a fejlesztő intézmény a piaci elvárások felmérése alapján, a várható felhasználói igények meghatározása révén végzi el?",
     "options": [
       {
@@ -1110,40 +910,6 @@
       },
       {
         "text": "A szoftver az elvárt kimenettel szolgál adott bemenetek esetén.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Egy szoftver termékre milyen tulajdonságoknak kell teljesülnie?",
-    "options": [
-      {
-        "text": "Hatékony",
-        "correct": true
-      },
-      {
-        "text": "Megbízható",
-        "correct": true
-      },
-      {
-        "text": "Használható",
-        "correct": true
-      },
-      {
-        "text": "Módosítható",
-        "correct": true
-      },
-      {
-        "text": "Hordozható",
-        "correct": true
-      },
-      {
-        "text": "Hasznosítható",
-        "correct": false
-      },
-      {
-        "text": "Mozgatható",
         "correct": false
       }
     ],
@@ -1290,28 +1056,6 @@
     "explanation": ""
   },
   {
-    "question": "Mit jelent egy szoftver termék esetén a tesztelhetőség?",
-    "options": [
-      {
-        "text": "Könnyen lehessen tesztelni, az esetleges működési hibákat megtalálni.",
-        "correct": true
-      },
-      {
-        "text": "A szoftver tartalmaz olyan modulokat, melyek elősegítik a tesztek végrehajtását.",
-        "correct": false
-      },
-      {
-        "text": "A fejlesztés olyan fázishoz érkezett, ahol lehetőség adódik a szoftver termék tesztelésére.",
-        "correct": false
-      },
-      {
-        "text": "Egyik sem.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mit jelent egy szoftver termék esetén az újra-felhasználhatóság?",
     "options": [
       {
@@ -1350,28 +1094,6 @@
       },
       {
         "text": "Szoftver meghibásodás esetén hatékonyan lehet javítani, módosítani.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mit jelent egy szoftver termék esetén az együttműködhetőség?",
-    "options": [
-      {
-        "text": "A szoftver más rendszerekkel való együttműködési, információcserélési lehetőségeire utal.",
-        "correct": true
-      },
-      {
-        "text": "Megfelelően lehet használni, elfogadható felhasználói kényelemmel, szolgáltatásokkal.",
-        "correct": false
-      },
-      {
-        "text": "A lehető legkevesebb újraírás árán lehessen átvinni egy másik hardver-platformra, vagy másik operációs rendszer alá. Az a jó, ha csak újra le kell fordítani az új számítógépen. De az a legjobb, ha minden további nélkül képes együttműködni az új környezetben.",
-        "correct": false
-      },
-      {
-        "text": "Az egész szoftver vagy annak jól elhatárolható részei más rendszerekbe is beépíthetőek, felhasználhatóak legyenek.",
         "correct": false
       }
     ],
@@ -1596,56 +1318,8 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítások igazak?",
+    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Időbeliséghez igazodás, külső események felügyelete, vezérlése, időkereten belüli reagálás.",
     "options": [
-      {
-        "text": "Az EIS rendszerek a vezetői döntéshez szükséges információkat szűrik ki, szelektálják az adatbázisból.",
-        "correct": true
-      },
-      {
-        "text": "Egy vállalat ERP rendszere az EIS rendszerre épül.",
-        "correct": false
-      },
-      {
-        "text": "Az EIS rendszerek egy vállalat összes üzleti tevékenységét lefedi, kiszolgálja.",
-        "correct": false
-      },
-      {
-        "text": "Az EIS rendszerek nagy mennyiségű adatok olvasását, írását, feldolgozását végzik.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Szolgáltatást nyújt, strukturált vagy strukturálatlan fájlok feldolgozása, nagy mennyiségű adatfeldolgozás.",
-    "options": [
-      {
-        "text": "Rendszer szoftver",
-        "correct": true
-      },
-      {
-        "text": "Mérnöki és tudományos célú szoftver",
-        "correct": false
-      },
-      {
-        "text": "Valós idejű szoftver",
-        "correct": false
-      },
-      {
-        "text": "Üzleti célú szoftver",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
-    "options": [
-      {
-        "text": "Időbeliséghez igazodás, külső események felügyelete, vezérlése, időkereten belüli reagálás.",
-        "correct": false
-      },
       {
         "text": "Valós idejű szoftver",
         "correct": true
@@ -1666,12 +1340,8 @@
     "explanation": ""
   },
   {
-    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
+    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Nagy mennyiségű információ feldolgozás, komponens alapú komplex rendszer, minden komponensnek egyéni funkció.",
     "options": [
-      {
-        "text": "Nagy mennyiségű információ feldolgozás, komponens alapú komplex rendszer, minden komponensnek egyéni funkció.",
-        "correct": false
-      },
       {
         "text": "Üzleti célú szoftver",
         "correct": true
@@ -1692,12 +1362,8 @@
     "explanation": ""
   },
   {
-    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
+    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Nagy mennyiségű számítási igény, nagy teljesítményű hardver, komplex matematikai műveletek.",
     "options": [
-      {
-        "text": "Nagy mennyiségű számítási igény, nagy teljesítményű hardver, komplex matematikai műveletek.",
-        "correct": false
-      },
       {
         "text": "Mérnöki és tudományos célú szoftver",
         "correct": true
@@ -1718,12 +1384,8 @@
     "explanation": ""
   },
   {
-    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések?",
+    "question": "Mely szoftver alkalmazási területre jellemzőek az alábbi kifejezések? Vezérlő eszköz vagy célberendezés működését segítik, teszik lehetővé.",
     "options": [
-      {
-        "text": "Vezérlő eszköz vagy célberendezés működését segítik, teszik lehetővé.",
-        "correct": false
-      },
       {
         "text": "Beágyazott szoftver",
         "correct": true
@@ -1826,7 +1488,7 @@
     "explanation": ""
   },
   {
-    "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
+    "question": "Mely életciklus modell vázlatos diagramja látható a képen? <br> <img src=\"image-1.png\">",
     "options": [
       {
         "text": "Vízesés modell",
@@ -1837,36 +1499,22 @@
         "correct": true
       },
       {
-        "text": "modell Inkrementális fejlesztés Prototípus-alapú fejlesztés",
+        "text": "V modell",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
-    "options": [
-      {
-        "text": "Prototípus-alapú fejlesztés",
-        "correct": true
       },
       {
         "text": "Inkrementális fejlesztés",
         "correct": false
       },
       {
-        "text": "Növekményes fejlesztés",
-        "correct": false
-      },
-      {
-        "text": "Iterációs fejlesztés",
+        "text": "Prototípus-alapú fejlesztés",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Mely életciklus modell vázlatos diagramja látható a képen?",
+    "question": "Mely életciklus modell vázlatos diagramja látható a képen? <br> <img src=\"image-2.png\">",
     "options": [
       {
         "text": "Inkrementális fejlesztés",
@@ -2124,48 +1772,6 @@
     "explanation": ""
   },
   {
-    "question": "Milyen fázisok találhatóak a prototípus alapú fejlesztésben?",
-    "options": [
-      {
-        "text": "Feladat meghatározása",
-        "correct": true
-      },
-      {
-        "text": "Rendszer specifikálása",
-        "correct": true
-      },
-      {
-        "text": "Prototípus kifejlesztése",
-        "correct": true
-      },
-      {
-        "text": "Prototípus megfelelőségének vizsgálata",
-        "correct": true
-      },
-      {
-        "text": "Rendszer megtervezése",
-        "correct": true
-      },
-      {
-        "text": "Rendszer megépítése",
-        "correct": true
-      },
-      {
-        "text": "Prototípusok tesztelése és implementálása",
-        "correct": false
-      },
-      {
-        "text": "Rendszer üzemeltetése és karbantartása",
-        "correct": false
-      },
-      {
-        "text": "Integrálás és rendszertesztelés",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mi jellemző a lineáris ciklusra?",
     "options": [
       {
@@ -2200,26 +1806,6 @@
       },
       {
         "text": "Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba, hurkokba rendezve. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.",
-        "correct": false
-      },
-      {
-        "text": "Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.",
-        "correct": true
-      },
-      {
-        "text": "Ebben a megoldásban a felhasználók először csak főbb vonásokban határozzák meg az elérendő szolgáltatásokat, megadva a fontosabb és a kevésbé fontos szempontokat. Kiindulásként a teljes rendszert részfunkciókra bontják, és az egyes részfunkciókat megvalósító fejlesztési változatokat rendelik meg.",
-        "correct": true
-      },
-      {
-        "text": "Ebben a modellben az egyes tevékenységek nem előírt sorrendben követik egymást, a tevékenységek közötti bizonyos visszalépésekkel, hanem folyamatosan előre haladva, fejlesztési ciklusokba, hurkokba rendezve. Itt mindegyik ciklus egy önálló fejlesztési fázist képvisel.",
-        "correct": false
-      },
-      {
-        "text": "Ez a modell több egymást követő fejlesztési állomásból tevődik össze, ahol az egyes állomások eredményeinek elemzése alapján kerül sor a következő állomás tervezésére és megvalósítására. Ebben a megközelítésben mindegyik állomás az előzőnél teljesebb, jobban kiérlelt verziót eredményez.",
-        "correct": true
-      },
-      {
-        "text": "Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.",
         "correct": false
       }
     ],
@@ -2268,28 +1854,6 @@
       },
       {
         "text": "Kiss méretű, de több team együttes munkáját igénylő fejlesztéseknél.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Nagy rendszereknél érdemes e vegyesen használni az evolúciós és a vízesés modellt? Ha igen, hogyan?",
-    "options": [
-      {
-        "text": "Igen, a specifikáció végleges kialakítását evolúciós módon, és ezt követően már a vízesés-alapú folyamattal valósítsuk meg a végleges tervet.",
-        "correct": true
-      },
-      {
-        "text": "Igen, a specifikáció végleges kialakítását vízesés módon, és ezt követően már az evolúciós-alapú folyamattal valósítsuk meg a végleges tervet.",
-        "correct": false
-      },
-      {
-        "text": "Igen, a fejlesztést vízesés modellel hajtsuk végre, ahol minden egyes fázis esetén evolúciós modellt alkalmazunk.",
-        "correct": false
-      },
-      {
-        "text": "Nem, nagy rendszereknél általában evolúciós modellt érdemes alkalmazni.",
         "correct": false
       }
     ],
@@ -2404,28 +1968,6 @@
     "explanation": ""
   },
   {
-    "question": "Növekményes fejlesztés esetén mi a teendő, ha egy inkrementum elkészül (véglegessé válik)?",
-    "options": [
-      {
-        "text": "Hozzáintegráljuk a már elfogadott és egybeépített többi inkrementumhoz.",
-        "correct": true
-      },
-      {
-        "text": "Átadjuk a felhasználónak, mivel a növekményes fejlesztés lényege, hogy a megrendelő inkrementumonként kapja kézhez a szoftver rendszert.",
-        "correct": false
-      },
-      {
-        "text": "Növekményes fejlesztés esetén nem beszélhetünk inkrementumokról, mivel az az inkrementális fejlesztéshez tartozik.",
-        "correct": false
-      },
-      {
-        "text": "Validáljuk a rendszert, döntünk a további inkrementumok fejlesztéséről.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mi jellemző a spirál modellre?",
     "options": [
       {
@@ -2442,32 +1984,6 @@
       },
       {
         "text": "Jellemző sajátossága a szekvencialitás, ami úgy nyilvánul meg, hogy az egyes fázisok kötött sorrendben követik egymást. Mégpedig oly módon, hogy egy fázis csak akkor kezdhető el, ha az őt megelőző fázis fejlesztési eredménye már rendelkezésre áll. Ideális esetben mindegyik szakasz csak egyetlen „menetben” valósul meg.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Milyen szektorokból és milyen sorrendben épül fel a spirál modell?",
-    "options": [
-      {
-        "text": "Fejlesztési célok, tárgykörök megállapítása. 2: Kockázatok értékelése és csökkentése. 3: Fejlesztés és validálás. 4: Tervezés",
-        "correct": true
-      },
-      {
-        "text": "Fejlesztési célok, tárgykörök megállapítása. 2: Kockázatok értékelése és csökkentése. 3: Tervezés.",
-        "correct": false
-      },
-      {
-        "text": "Fejlesztés és validálás.",
-        "correct": false
-      },
-      {
-        "text": "Felhasználói igények felmérése. 2: Fejlesztési célok, tárgykörök megállapítása. 3: Fejlesztés és validálás. 4: Tervezés",
-        "correct": false
-      },
-      {
-        "text": "Felhasználói igények felmérése. 2: Fejlesztési célok, tárgykörök megállapítása. 3: Tervezés. 4: Fejlesztés és validálás.",
         "correct": false
       }
     ],
@@ -2544,28 +2060,6 @@
     "explanation": ""
   },
   {
-    "question": "Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, amely nincsen jól strukturálva, és nehezebb átgondolni?",
-    "options": [
-      {
-        "text": "Evolúciós modell",
-        "correct": true
-      },
-      {
-        "text": "Prototípus alapú fejlesztés",
-        "correct": true
-      },
-      {
-        "text": "Spirál modell",
-        "correct": false
-      },
-      {
-        "text": "modell Vízesés modell",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Milyen fejlesztési modellt vagy modelleket választana olyan feladat esetén, ahol korai eredményt szeretnénk elérni a felhasználó megnyerése érdekében?",
     "options": [
       {
@@ -2581,7 +2075,11 @@
         "correct": true
       },
       {
-        "text": "modell Vízesés modell",
+        "text": "V modell",
+        "correct": false
+      },
+      {
+        "text": "Vízesés modell",
         "correct": false
       }
     ],
@@ -2670,28 +2168,6 @@
     "explanation": ""
   },
   {
-    "question": "Mi a rendelkezésre állás?",
-    "options": [
-      {
-        "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.",
-        "correct": true
-      },
-      {
-        "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.",
-        "correct": false
-      },
-      {
-        "text": "Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.",
-        "correct": false
-      },
-      {
-        "text": "Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mi a biztonságosság?",
     "options": [
       {
@@ -2708,28 +2184,6 @@
       },
       {
         "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi a karbantarthatóság?",
-    "options": [
-      {
-        "text": "Annak valószínűsége, hogy a meghibásodott rendszer újra működőképessé tehető t időtartam alatt.",
-        "correct": true
-      },
-      {
-        "text": "Annak feltételes valószínűsége, hogy egy informatikai rendszer hibátlanul működik a [t0, t] időintervallumban, feltéve, hogy a t0 <= t időpontban hibátlanul működött.",
-        "correct": false
-      },
-      {
-        "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen működik a t időpontban.",
-        "correct": false
-      },
-      {
-        "text": "Annak valószínűsége, hogy az informatikai rendszer helyesen vagy hibásan működik a t időpontban, de oly módon, hogy nem veszélyeztet emberi életet, nem okoz anyagi vagy környezeti kárt, és nem befolyásolja károsan más rendszerek működését.",
         "correct": false
       }
     ],
@@ -3012,32 +2466,6 @@
     "explanation": ""
   },
   {
-    "question": "Előfordulhat-e, hogy nincs szükség a validációs vagy a verifikációs folyamatra?",
-    "options": [
-      {
-        "text": "Igen. Bizonyos esetekben, ha a kiindulási specifikációban nincsen semmilyen hiányosság, akkor nincs szükség a validációra.",
-        "correct": true
-      },
-      {
-        "text": "Igen. Ha jól validált a rendszer, akkor nincs szükség a verifikációs folyamatra.",
-        "correct": false
-      },
-      {
-        "text": "Igen. Bizonyos fejlesztési modellek esetén elhagyható a validációs folyamat.",
-        "correct": false
-      },
-      {
-        "text": "Nem. A verifikációt és a validációt minden esetben el kell végezni.",
-        "correct": false
-      },
-      {
-        "text": "Nem. Minden szoftver esetén szükség van verifikálásra, melynek része a validációs folyamat.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mit fejez ki a V modell lefelé haladó ága?",
     "options": [
       {
@@ -3211,7 +2639,15 @@
         "correct": true
       },
       {
-        "text": "teljes rendszer-specifikáció Követelmények specifikálása Modulokra bontás",
+        "text": "teljes rendszer-specifikáció",
+        "correct": false
+      },
+      {
+        "text": "Követelmények specifikálása",
+        "correct": false
+      },
+      {
+        "text": "Modulokra bontás",
         "correct": false
       },
       {
@@ -3229,7 +2665,11 @@
         "correct": true
       },
       {
-        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A rendszer terve, és a teljes rendszer-specifikáció",
+        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció ",
+        "correct": false
+      },
+      {
+        "text": "A rendszer terve, és a teljes rendszer-specifikáció",
         "correct": false
       },
       {
@@ -3243,11 +2683,19 @@
     "question": "V modell esetén a bizonylatolás fázisnak mi a bemeneti dokumentációja?",
     "options": [
       {
-        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A biztonsági követelmények dokumentációja",
+        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció",
         "correct": true
       },
       {
-        "text": "A modulok terve, és a teljes rendszer terve A teljes rendszer-specifikáció",
+        "text": " A biztonsági követelmények dokumentációja",
+        "correct": false
+      },
+      {
+        "text": "A modulok terve, és a teljes rendszer terve",
+        "correct": false
+      },
+      {
+        "text": "A teljes rendszer-specifikáció",
         "correct": false
       }
     ],
@@ -3258,6 +2706,10 @@
     "options": [
       {
         "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A biztonsági követelmények dokumentációja",
+        "correct": true
+      },
+      {
+        "text": "A biztonsági követelmények dokumentációja",
         "correct": true
       },
       {
@@ -3283,7 +2735,11 @@
         "correct": false
       },
       {
-        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A modulok terve, és a teljes rendszer terve",
+        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció",
+        "correct": false
+      },
+      {
+        "text": "A modulok terve, és a teljes rendszer terve",
         "correct": false
       }
     ],
@@ -3301,7 +2757,11 @@
         "correct": false
       },
       {
-        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció A rendszer terve, és a teljes rendszer-specifikáció",
+        "text": "rendszer-követelmények dokumentációja, és a teljes rendszer-specifikáció",
+        "correct": false
+      },
+      {
+        "text": "A rendszer terve, és a teljes rendszer-specifikáció",
         "correct": false
       }
     ],
@@ -3333,11 +2793,7 @@
     "question": "Mi igaz az inkrementális tesztelésre?",
     "options": [
       {
-        "text": "Egy kiindulási, minimális számú modulhoz egymás után illesztjük a bővítésként szolgáló modulokat.",
-        "correct": true
-      },
-      {
-        "text": "Minden egyes bővítés után külön teszteljük az addig összeállt komplexumot.",
+        "text": "Egy kiindulási, minimális számú modulhoz egymás után illesztjük a bővítésként szolgáló modulokat.Minden egyes bővítés után külön teszteljük az addig összeállt komplexumot.",
         "correct": true
       },
       {
@@ -3530,36 +2986,6 @@
     "explanation": ""
   },
   {
-    "question": "Mi igaz az alábbi ábra esetén?",
-    "options": [
-      {
-        "text": "T6 tevékenység megkezdéséhez T3 tevékenységnek be kell fejeződnie.",
-        "correct": true
-      },
-      {
-        "text": "T3 és T4 elvégzése között nincs összefüggés.",
-        "correct": true
-      },
-      {
-        "text": "M1 és M3 tevékenységek.",
-        "correct": false
-      },
-      {
-        "text": "T1, T3 és T4 tevékenységek párhuzamosan hajtódnak végre.",
-        "correct": false
-      },
-      {
-        "text": "M3 és M1 egy időben teljesülnek.",
-        "correct": false
-      },
-      {
-        "text": "T4 és T6 között nincs összefüggés.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Hogyan ábrázoljuk a mérföldköveket?",
     "options": [
       {
@@ -3608,12 +3034,8 @@
     "explanation": ""
   },
   {
-    "question": "Mi igaz az alábbi jelölés esetén?",
+    "question": "Mi igaz az alábbi jelölés esetén? <br> T3, T6 (M3)",
     "options": [
-      {
-        "text": "T3, T6 (M3)",
-        "correct": false
-      },
       {
         "text": "Az M3 mérföldkő teljesüléséhez T3 és T6 tevékenységek teljesítése szükséges.",
         "correct": true
@@ -3686,7 +3108,7 @@
     "explanation": ""
   },
   {
-    "question": "Mi igaz az alábbi tevékenységi diagram (részlet) esetén?",
+    "question": "Mi igaz az alábbi tevékenységi diagram (részlet) esetén? <br> <img src=\"image-3.png\">",
     "options": [
       {
         "text": "A START állapotot pszeudó mérföldkőnek is nevezzük.",
@@ -3756,36 +3178,6 @@
     "explanation": ""
   },
   {
-    "question": "Mi igaz az alábbi kifejezés esetén?",
-    "options": [
-      {
-        "text": "CP=T2+T4+T7=5+12+9=26",
-        "correct": false
-      },
-      {
-        "text": "A projektben három kritikus tevékenység található.",
-        "correct": true
-      },
-      {
-        "text": "A kritikus út hossza 26 időegység.",
-        "correct": true
-      },
-      {
-        "text": "A projekt teljes időtartama 26 időegység.",
-        "correct": true
-      },
-      {
-        "text": "A három kritikus tevékenység időtartama 26 időegység.",
-        "correct": true
-      },
-      {
-        "text": "A projektben három tevékenység található.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mit nevezünk pszeudó-mérföldkőnek?",
     "options": [
       {
@@ -3816,7 +3208,7 @@
     "explanation": ""
   },
   {
-    "question": "Az alábbi tevékenység diagram részleten mire utal az END állapot melletti 60-as szám?",
+    "question": "Az alábbi tevékenység diagram részleten mire utal az END állapot melletti 60-as szám? <br> <img src=\"image-4.png\">",
     "options": [
       {
         "text": "Az END mérföldkő időpontja a kezdéstől számított 60. hét.",
@@ -3838,7 +3230,7 @@
     "explanation": ""
   },
   {
-    "question": "Mi látható az ábrán és mire szolgál?",
+    "question": "Mi látható az ábrán és mire szolgál? <br> <img src=\"image-5.png\">",
     "options": [
       {
         "text": "Az ábrán egy Gantt-diagram látható. A projekt ütemezési tervének grafikus megjelenésére szolgál.",
@@ -3854,32 +3246,6 @@
       },
       {
         "text": "Az ábrán egy esemény diagram látható. Ezen az egyes tevékenységeket egy vízszintes szakaszon ábrázoljuk, ahol a szakaszok egymás alatt helyezkednek el, abban a sorrendben, ahogy a nekik megfelelő tevékenységek követik egymást.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi igaz a Gantt-diagram esetén?",
-    "options": [
-      {
-        "text": "Az egyes tevékenységeket egy vízszintes szakaszon ábrázoljuk.",
-        "correct": true
-      },
-      {
-        "text": "A különböző szakaszok úgy vannak eltolva egymáshoz képest, ahogyan a projektben tolódnak el az időben.",
-        "correct": true
-      },
-      {
-        "text": "A projekt ütemezési tervének grafikus megjelenésére szolgál.",
-        "correct": true
-      },
-      {
-        "text": "Egy tevékenység jele egy téglalap.",
-        "correct": false
-      },
-      {
-        "text": "Az egymás után követő tevékenységeket az őket ábrázoló téglalapok összekötésével fejezzük ki.",
         "correct": false
       }
     ],
@@ -3938,7 +3304,7 @@
     "explanation": ""
   },
   {
-    "question": "Az alábbi diagram részlet esetén mely állítások igazak?",
+    "question": "Az alábbi diagram részlet esetén mely állítások igazak?  <br> <img src=\"image-6.png\">",
     "options": [
       {
         "text": "T3 tevékenység tartalékideje 9 hét.",
@@ -3972,7 +3338,7 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítások igazak az alábbi diagram részlet esetén?",
+    "question": "Mely állítások igazak az alábbi diagram részlet esetén?  <br> <img src=\"image-7.png\">",
     "options": [
       {
         "text": "T6 és T8 tevékenységek együttes tartalékideje 6 hét.",
@@ -4019,6 +3385,58 @@
       {
         "text": "Osztály",
         "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mit fejez ki az alábbi egyenlőtlenség? <br> C(f1) > C(f2)",
+    "options": [
+      {
+        "text": "Az f1 feladat bonyolultsága nagyobb, mint az f2 feladat bonyolultsága.",
+        "correct": true
+      },
+      {
+        "text": "Az f1 probléma megoldására fordítandó erőfeszítés nagyobb, mint az f2 probléma megoldására fordítandó erőfeszítés.",
+        "correct": false
+      },
+      {
+        "text": "Az f1 forráskód hossza nagyobb, mint az f2 forráskód hossza.",
+        "correct": false
+      },
+      {
+        "text": "Az f1 modul funkciópontja nagyobb, mint az f2 modul funkciópontja.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi következik a C(f1) > C(f2) egyenlőtlenségből?",
+    "options": [
+      {
+        "text": "E(f1) > E(f2)",
+        "correct": true
+      },
+      {
+        "text": "f1 < f2",
+        "correct": false
+      },
+      {
+        "text": "E(f1) < E(f2)",
+        "correct": false
+      },
+      {
+        "text": "E(f1) = E(f2)",
+        "correct": false
+      },
+      {
+        "text": "C(f1+f2) > C(f1) + C(f2)",
+        "correct": false
+      },
+      {
+        "text": "E(f1+f2) > E(f1) + E(f2)",
+        "correct": false
       }
     ],
     "explanation": ""
@@ -4072,7 +3490,7 @@
     "explanation": ""
   },
   {
-    "question": "Mi állapítható meg az alábbi ábráról?",
+    "question": "Mi állapítható meg az alábbi ábráról?  <br> <img src=\"image-8.png\">",
     "options": [
       {
         "text": "Az 1. görbe mutatja az integrálási költséget.",
@@ -4162,41 +3580,7 @@
     "explanation": ""
   },
   {
-    "question": "Mi igaz az alábbi ábra esetén?",
-    "options": [
-      {
-        "text": "„A” szoftver modul hívhatja „B” szoftver modult.",
-        "correct": true
-      },
-      {
-        "text": "„B” szoftver modul átadhatja a vezérlést „A” szoftver modulnak.",
-        "correct": true
-      },
-      {
-        "text": "„A” és „B” szoftver modulok.",
-        "correct": true
-      },
-      {
-        "text": "A két modul egyaránt hívhatja egymást.",
-        "correct": false
-      },
-      {
-        "text": "„A” és „B” tevékenységek.",
-        "correct": false
-      },
-      {
-        "text": "„A” és „B” tevékenység között függőségi kapcsolat áll fent.",
-        "correct": false
-      },
-      {
-        "text": "„B” tevékenység kezdetéhez „A” tevékenység befejezése szükséges.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely állítás igaz az alábbi ábra esetén?",
+    "question": "Mely állítás igaz az alábbi ábra esetén? <br> <img src=\"image-9.png\">",
     "options": [
       {
         "text": "„a” fan-in értéke 1.",
@@ -4230,7 +3614,7 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítás igaz az alábbi ábra esetén?",
+    "question": "Mely állítás igaz az alábbi ábra esetén? <br> <img src=\"image-10.png\">",
     "options": [
       {
         "text": "Az „r” modulnak a legnagyobb a fan-in értéke.",
@@ -4282,7 +3666,7 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítás igaz az alábbi ábra esetén?",
+    "question": "Mely állítás igaz az alábbi ábra esetén? <br> <img src=\"image-11.png\">",
     "options": [
       {
         "text": "Az „m-p-r” egy hívási lánc.",
@@ -4302,32 +3686,6 @@
       },
       {
         "text": "A „k” modul hívási szélessége 5.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mely állítás igaz az alábbi ábra esetén?",
-    "options": [
-      {
-        "text": "Az „e” modul hívási szintje 2.",
-        "correct": true
-      },
-      {
-        "text": "Az „e” modul hívási szintje 3.",
-        "correct": false
-      },
-      {
-        "text": "Az „e” modul hívási szintje 5.",
-        "correct": false
-      },
-      {
-        "text": "Az „e” modul hívási szintje 9.",
-        "correct": false
-      },
-      {
-        "text": "Az „e” modul hívási szintje 1.",
         "correct": false
       }
     ],
@@ -4386,7 +3744,7 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítás igaz az alábbi ábra esetén?",
+    "question": "Mely állítás igaz az alábbi ábra esetén? <br> <img src=\"image-12.png\">",
     "options": [
       {
         "text": "M=18",
@@ -4558,26 +3916,26 @@
     "explanation": ""
   },
   {
-    "question": "Az Alábbi állítások közül melyek igazak?",
+    "question": "Az alábbiak közül melyek mérőszámok?",
     "options": [
       {
-        "text": "A funkció-orientált számok a teljes rendszerre vonatkoznak.",
+        "text": "Funkció-orientált szám",
         "correct": true
       },
       {
-        "text": "Card és Glass mérőszámai az architektúrára vonatkoznak.",
+        "text": "McCabe-féle szám",
         "correct": true
       },
       {
-        "text": "A Halstead-számok a forráskódra vonatkoznak.",
-        "correct": true
-      },
-      {
-        "text": "Az MLOC a forráskódra vonatkozik.",
+        "text": "Henry és Glass mérőszámai",
         "correct": false
       },
       {
-        "text": "A code length a forráskódra vonatkozik.",
+        "text": "Kafura-féle mérőszámok",
+        "correct": false
+      },
+      {
+        "text": "Constructive Model of Cost",
         "correct": false
       }
     ],
@@ -4643,27 +4001,27 @@
     "question": "Az alábbiak közül melyik igaz?",
     "options": [
       {
-        "text": "1 KLOC = 1000 LOC",
+        "text": "A LOC a Line of Code rövidítése.",
         "correct": true
       },
       {
-        "text": "1 MLOC = 1000000 LOC",
+        "text": "A LOC megadja a forráskód sorainak a számát.",
         "correct": true
       },
       {
-        "text": "LOC méret-orientált szám.",
+        "text": "A LOC a teljes rendszerre vonatkozó mérőszám.",
         "correct": true
       },
       {
-        "text": "1 KLOC = 1024 LOC",
+        "text": "A LOC megadja a forráskód parancsainak számát.",
         "correct": false
       },
       {
-        "text": "1 MLOC = 1024 KLOC",
+        "text": "A LOC a List of Commands rövidítése.",
         "correct": false
       },
       {
-        "text": "A LOC forráskódra vonatkozó mérőszám.",
+        "text": "A LOC a forráskódra vonatkozó mérőszám.",
         "correct": false
       }
     ],
@@ -4774,28 +4132,8 @@
     "explanation": ""
   },
   {
-    "question": "Egy szoftverre vonatkozó funkciók száma és azok súlyértékei láthatóak pontosvesszővel tagolva, ahol az első érték a funkció száma, második a súlyérték. Milyen funkciópontokkal rendelkezik a szoftver?",
+    "question": "Egy szoftverre vonatkozó funkciók száma és azok súlyértékei láthatóak pontosvesszővel tagolva, ahol az első érték a funkció száma, második a súlyérték. Milyen funkciópontokkal rendelkezik a szoftver? <br>2;1<br>3;2<br>1;1<br>4;2<br>2;5",
     "options": [
-      {
-        "text": "2;1",
-        "correct": false
-      },
-      {
-        "text": "3;2",
-        "correct": false
-      },
-      {
-        "text": "1;1",
-        "correct": false
-      },
-      {
-        "text": "4;2",
-        "correct": false
-      },
-      {
-        "text": "2;5",
-        "correct": false
-      },
       {
         "text": "Egyik sem, az adatok hibásak.",
         "correct": true
@@ -4814,32 +4152,6 @@
       },
       {
         "text": "3, 5, 2, 6, 10, 26, 1800",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Legyen p1 és p2 szoftverek. A p1 szoftver összesített funkciópontja 120, a p2 szoftver összesített funkciópontja 42. Funkcionálisan mely szoftver értékesebb?",
-    "options": [
-      {
-        "text": "A p1 szoftver értékesebb, mert magasabb az összesített funkciópontja.",
-        "correct": true
-      },
-      {
-        "text": "A p2 szoftver értékesebb, mert alacsonyabb az összesített funkciópontja.",
-        "correct": false
-      },
-      {
-        "text": "A funkcionális érték nem eldönthető a pusztán a funkciópontokból.",
-        "correct": false
-      },
-      {
-        "text": "A funkcionális érték meghatározásához szükség a p1 és p2 szoftverek működési részterületekre bontott funkciópontjaikra.",
-        "correct": false
-      },
-      {
-        "text": "A p1 szoftver értékesebb, amennyiben a két szoftver LOC értékei is ugyanolyan arányban állnak, mint a funkciópontjaik.",
         "correct": false
       }
     ],
@@ -4950,36 +4262,6 @@
     "explanation": ""
   },
   {
-    "question": "Halstead milyen mérőszámokat vezetett be?",
-    "options": [
-      {
-        "text": "A forráskód becsült hossza.",
-        "correct": true
-      },
-      {
-        "text": "A forráskód aktuális hossza.",
-        "correct": true
-      },
-      {
-        "text": "A program tárgykódjának számított volumene.",
-        "correct": true
-      },
-      {
-        "text": "A program tárgykódjának számított bájtmérete.",
-        "correct": false
-      },
-      {
-        "text": "A forráskódban található operandusok száma.",
-        "correct": false
-      },
-      {
-        "text": "A forráskódban található operátorok száma.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Hogyan számítható a forráskód becsült hossza Halstead mérőszáma alapján?",
     "options": [
       {
@@ -5084,36 +4366,10 @@
     "explanation": ""
   },
   {
-    "question": "Mitől függ MC értéke?",
-    "options": [
-      {
-        "text": "A logikai döntések számától.",
-        "correct": true
-      },
-      {
-        "text": "Az operandusok számától.",
-        "correct": false
-      },
-      {
-        "text": "Az operátorok számától.",
-        "correct": false
-      },
-      {
-        "text": "A forráskód hosszától.",
-        "correct": false
-      },
-      {
-        "text": "A rendszer méretétől.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Hogyan számolható MC értéke?",
     "options": [
       {
-        "text": "MC=D+1",
+        "text": "MC = D + 1",
         "correct": true
       },
       {
@@ -5151,107 +4407,11 @@
         "correct": true
       },
       {
-        "text": "McCabe-féle szám az architektúrára vonatkozik. A McCabe-féle szám a forráskód hosszától függ.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Vegyük az alábbi folyamat-diagramot. Mennyi MC értéke?",
-    "options": [
-      {
-        "text": "MC=4",
-        "correct": true
-      },
-      {
-        "text": "MC=3",
+        "text": "McCabe-féle szám az architektúrára vonatkozik.",
         "correct": false
       },
       {
-        "text": "MC=6",
-        "correct": false
-      },
-      {
-        "text": "MC=9",
-        "correct": false
-      },
-      {
-        "text": "MC=7",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Az alábbiak közül mely igaz?",
-    "options": [
-      {
-        "text": "A McCabe-féle szám esetén a cél az MC értékének minimális szinten tartása.",
-        "correct": true
-      },
-      {
-        "text": "A McCabe-féle szám egy szoftver rendszer bonyolultságára utal.",
-        "correct": false
-      },
-      {
-        "text": "A McCabe-féle szám méri a modulok közti kapcsolat komplexitását.",
-        "correct": false
-      },
-      {
-        "text": "McCabe szerint az az optimális, ha az MC értéke nagyobb, mint 10.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Egy szoftver modul esetén MC = 26. Mire tudunk ebből következtetni?",
-    "options": [
-      {
-        "text": "A modul logikai elágazásainak száma 25.",
-        "correct": true
-      },
-      {
-        "text": "A modul nagy valószínűséggel nehezen áttekinthető, nehezen kezelhető.",
-        "correct": true
-      },
-      {
-        "text": "A modul forráskódjának hossza 26 kódsor.",
-        "correct": false
-      },
-      {
-        "text": "A modulban 26 utasítás található.",
-        "correct": false
-      },
-      {
-        "text": "A modul elágazásainak száma 26.",
-        "correct": false
-      },
-      {
-        "text": "A modul forráskódjának utasítás-végrehajtási lehetőségeinek száma 25.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "A Card és Glass mérőszámai miről adnak információt?",
-    "options": [
-      {
-        "text": "A modulok információs kapcsolatáról.",
-        "correct": true
-      },
-      {
-        "text": "A forráskód méretéről.",
-        "correct": false
-      },
-      {
-        "text": "A modulok belső struktúrájáról.",
-        "correct": false
-      },
-      {
-        "text": "A modulok logikai felépítéséről.",
+        "text": "A McCabe-féle szám a forráskód hosszától függ.",
         "correct": false
       }
     ],
@@ -5522,33 +4682,7 @@
     "explanation": ""
   },
   {
-    "question": "Egy szoftver rendszer 4 modulból épül fel, melyek modul-komplexitási értékei sorra 2, 4, 3 és 5. Mekkora az architekturális-komplexitás?",
-    "options": [
-      {
-        "text": "14",
-        "correct": true
-      },
-      {
-        "text": "120",
-        "correct": false
-      },
-      {
-        "text": "15",
-        "correct": false
-      },
-      {
-        "text": "240",
-        "correct": false
-      },
-      {
-        "text": "A megadott információból nem meghatározható.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Az alábbi ábra esetén mi lehet a koordináta tengelyek neve?",
+    "question": "Az alábbi ábra esetén mi lehet a koordináta tengelyek neve? <br> <img src=\"image-13.png\">",
     "options": [
       {
         "text": "Vízszintes tengely: architekturális komplexitás, függőleges tengely: Hiba / 1 KLOC",
@@ -5612,15 +4746,15 @@
       },
       {
         "text": "Henry és Kafura mérőszámai figyelembe veszik az összeágazásokat.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Card és Glass mérőszámai figyelembe veszik a szétágazásokat.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Henry és Kafura mérőszámai figyelembe veszik a szétágazásokat.",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Card és Glass mérőszámai figyelembe veszik az összeágazásokat.",
@@ -5684,32 +4818,6 @@
       },
       {
         "text": "Az i-edik modul forráskódjában szereplő logikai elágazások száma.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Miként kapjuk a teljes szoftver komplexitását?",
-    "options": [
-      {
-        "text": "HKM = HKM(1) + HKM(2) + HKM(3) + … + HKM(M-1) + HKM(M)",
-        "correct": true
-      },
-      {
-        "text": "HKM = HKM(1) * HKM(2) * HKM(3) * … * HKM(M-1) * HKM(M)",
-        "correct": false
-      },
-      {
-        "text": "AC = C(1) + C(2) + C(3) + … + C(M-1) + C(M)",
-        "correct": false
-      },
-      {
-        "text": "AC = C(1) * C(2) * C(3) * … * C(M-1) * C(M)",
-        "correct": false
-      },
-      {
-        "text": "AC = AC(1) + AC(2) + AC(3) + … + AC(M-1) + AC(M)",
         "correct": false
       }
     ],
@@ -5906,29 +5014,7 @@
     "explanation": ""
   },
   {
-    "question": "Mi jellemző a Rayleigh függvény-görbe menetére?",
-    "options": [
-      {
-        "text": "Értéke kezdetben nulla, majd hirtelen növekedésbe kezd, míg végül eléri a maximális „k” értékét, ami után a kezdeti növekedéshez képest lassabb ereszkedésbe zárul.",
-        "correct": true
-      },
-      {
-        "text": "Értéke kezdetben nullánál nagyobb, de jellemzően alacsony, majd lassú növekedésbe kezd, melynek eredményeként eléri maximális „k” értékét, s végül hirtelen leszökik a nulla értékre.",
-        "correct": false
-      },
-      {
-        "text": "A „k” értékről indul a görbe, s lassú, bizonytalan ereszkedés során éri el a nulla értéket.",
-        "correct": false
-      },
-      {
-        "text": "Értéke kezdetben alacsony, majd hirtelen növekedés során éri el a „k” értéket, ekkor rövid ideig stagnál „k” értéke körül, majd hosszan tartó ereszkedésben zárul.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Hogyan nevezné el az egyes tengelyeket? Mit jelöl a „k” érték?",
+    "question": "Hogyan nevezné el az egyes tengelyeket? Mit jelöl a „k” érték? <br> <img src=\"image-14.png\">",
     "options": [
       {
         "text": "Vízszintes tengely: idő, függőleges tengely: emberi ráfordítás",
@@ -5984,12 +5070,8 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítások igazak az alábbi képlet esetén?",
+    "question": "Mely állítások igazak az alábbi képlet esetén? <br> Ráfordítás = A * W * Méret^B",
     "options": [
-      {
-        "text": "Ráfordítás = A * W * Méret^B",
-        "correct": false
-      },
       {
         "text": "Az „A” egy konstans tényező, amelynek értéke függ a fejlesztendő szoftver jellegétől, típusától, bonyolultságától.",
         "correct": true
@@ -6014,38 +5096,8 @@
     "explanation": ""
   },
   {
-    "question": "Mit ad meg az AVC * FP szorzat eredménye?",
+    "question": "Mi igaz az alábbi kifejezés esetén? <br> 4E→2H, 8E→4H, 6E→3H",
     "options": [
-      {
-        "text": "Kódméret",
-        "correct": true
-      },
-      {
-        "text": "Modulméret",
-        "correct": false
-      },
-      {
-        "text": "Modulok száma",
-        "correct": false
-      },
-      {
-        "text": "Modul komplexitása",
-        "correct": false
-      },
-      {
-        "text": "Kód logikai komplexitása",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi igaz az alábbi kifejezés esetén?",
-    "options": [
-      {
-        "text": "4E→2H,8E→4H,6E→3H",
-        "correct": false
-      },
       {
         "text": "A projekt időtartama 11 hónap.",
         "correct": true
@@ -6074,12 +5126,8 @@
     "explanation": ""
   },
   {
-    "question": "Az alábbi esetben mennyi LSZ értéke?",
+    "question": "Az alábbi esetben mennyi LSZ értéke? <br>5E→2H, 9E→1H, 3E→2H",
     "options": [
-      {
-        "text": "5E→2H,9E→1H,3E→2H",
-        "correct": false
-      },
       {
         "text": "5E",
         "correct": true
@@ -6182,32 +5230,6 @@
     "explanation": ""
   },
   {
-    "question": "A COCOMO-modell alapján miként kaphatjuk meg az emberhónap értékét?",
-    "options": [
-      {
-        "text": "EH = a * KLOC^b",
-        "correct": true
-      },
-      {
-        "text": "EH = c * KLOC^d",
-        "correct": false
-      },
-      {
-        "text": "EH = a * NH^b",
-        "correct": false
-      },
-      {
-        "text": "EH = c * NH^d",
-        "correct": false
-      },
-      {
-        "text": "EH=LSZ/NH",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Az alábbiak közül melyik lehet az emberhónap a COCOMO-modell esetén?",
     "options": [
       {
@@ -6286,7 +5308,7 @@
     "explanation": ""
   },
   {
-    "question": "Az alábbi ábra esetén milyen címkéket írni a számokkal jelzett helyekre?",
+    "question": "Az alábbi ábra esetén milyen címkéket írni a számokkal jelzett helyekre? <br> <img src=\"image-15.png\">",
     "options": [
       {
         "text": "NH, 2: EH, 3: KLOC",
@@ -6332,28 +5354,6 @@
       },
       {
         "text": "LSZ = c * (a * KLOC^b)^d",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Az alábbiak közül mely állítás igaz?",
-    "options": [
-      {
-        "text": "Boehm modellje csak a KLOC értékétől függ.",
-        "correct": true
-      },
-      {
-        "text": "Boehm modelljét arra feltételezi, hogy a projektben mindig a megfelelő számú fejlesztő ember áll rendelkezésre.",
-        "correct": true
-      },
-      {
-        "text": "Boehm modellje figyelembe veszi a projektbe bevont emberek számát.",
-        "correct": false
-      },
-      {
-        "text": "Boehm hét kategóriába sorolta a szoftver projekteket.",
         "correct": false
       }
     ],
@@ -6408,6 +5408,1670 @@
     "explanation": ""
   },
   {
+    "question": "Mi a hibamodell?",
+    "options": [
+      {
+        "text": "Azon szoftver-hibák halmaza, amelyeknek a felfedésére irányul a teszttervezés.",
+        "correct": true
+      },
+      {
+        "text": "A szoftver bemeneti adatokkal való sorozatos ellátása és a kimeneti válaszadatok megfigyelése.",
+        "correct": false
+      },
+      {
+        "text": "Bemeneti adatok olyan rendezett sorozata, melynek hatására az adott hibát tartalmazó szoftver a legutolsó adatkombinációra a helyestől eltérő (hibás) kimeneti adatkombinációval válaszol.",
+        "correct": false
+      },
+      {
+        "text": "Ebben a modellben egy adott program (szoftver) az összes lehetséges bemeneti adatból előállítja az összes lehetséges kimeneti adatot.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a tesztelés?",
+    "options": [
+      {
+        "text": "A szoftver bemeneti adatokkal való sorozatos ellátása és a kimeneti válaszadatok megfigyelése.",
+        "correct": true
+      },
+      {
+        "text": "Bemeneti adatok olyan rendezett sorozata, melynek hatására az adott hibát tartalmazó szoftver a legutolsó adatkombinációra a helyestől eltérő (hibás) kimeneti adatkombinációval válaszol.",
+        "correct": false
+      },
+      {
+        "text": "Ebben a modellben egy adott program (szoftver) az összes lehetséges bemeneti adatból előállítja az összes lehetséges kimeneti adatot.",
+        "correct": false
+      },
+      {
+        "text": "Azon szoftver-hibák halmaza, amelyeknek a felfedésére irányul a teszttervezés.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mit írna a számokkal jelzett helyekre? <br> <img src=\"image-16.png\">",
+    "options": [
+      {
+        "text": "1: szoftver, 2: hibás működést okozó bemenetek, 3: hibás kimenetek, 4: bemenetek, 5: kimenetek",
+        "correct": true
+      },
+      {
+        "text": "1: tesztmodell, 2: detektálható hiba, 3: detektált hibák, 4: tesztkészlet, 5: kimenetek",
+        "correct": false
+      },
+      {
+        "text": "1: interfész, 2: hívó szoftver funkció, 3: fogadó szoftver funkció, 4: szoftver modul, 5: szoftver modul",
+        "correct": false
+      },
+      {
+        "text": "1: hibamodell, 2: egy hiba tesztje, 3: detektálható hiba, 4: tesztkészlet, 5: tesztmodell",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely állítás hamis?",
+    "options": [
+      {
+        "text": "A tesztelés az a folyamat, amikor egy szoftver detektálható hibák okát keressük.",
+        "correct": true
+      },
+      {
+        "text": "A hibamodell megadja a szoftverben található hibákat.",
+        "correct": false
+      },
+      {
+        "text": "A szoftver hibák mindig kihatással vannak a szoftver működésére.",
+        "correct": false
+      },
+      {
+        "text": "Egy hibáról akkor mondjuk, hogy detektálható, ha legalább egy tesztje létezik.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a fault coverage?",
+    "options": [
+      {
+        "text": "Azon hibák százalékos aránya az összes feltételezett hibához képest, amelyeket a tesztkészlet detektálni tud.",
+        "correct": true
+      },
+      {
+        "text": "Teszteknek olyan összessége, amely a szoftver mindegyik előre feltételezett és detektálható hibájának tesztjét magában foglalja.",
+        "correct": false
+      },
+      {
+        "text": "A bemeneti tesztsorozat és az elvárt válaszjelek meghatározása egy előre feltételezett hibahalmazra nézve.",
+        "correct": false
+      },
+      {
+        "text": "Bemeneti adatok olyan rendezett sorozata, melynek hatására az adott hibát tartalmazó szoftver a legutolsó adatkombinációra a helyestől eltérő (hibás) kimeneti adatkombinációval válaszol.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely állítás igaz?",
+    "options": [
+      {
+        "text": "A fault coverage esetén a cél a 100%-os lefedés.",
+        "correct": true
+      },
+      {
+        "text": "A tesztkészlet esetén a cél a 100%-os lefedés.",
+        "correct": true
+      },
+      {
+        "text": "A tesztkészlet lefedettsége 100%-os.",
+        "correct": false
+      },
+      {
+        "text": "A fault coverage lefedettsége 100%-os.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy megrendelő olyan szoftvert szeretne, aminek segítségével tetszőleges háromszög és tetszőleges négyszög területét tudja kiszámolni. Ezen megrendelés esetén mely állítások bizonyulnak igaznak?",
+    "options": [
+      {
+        "text": "Specifikációs hiba, ha a szoftver csak háromszögek területét képes kiszámítani.",
+        "correct": true
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver képes kiszámolni a négyszögek kerületét.",
+        "correct": true
+      },
+      {
+        "text": "Programozási hiba, ha a szoftver bizonyos háromszögek esetén hibás kimenetet ad.",
+        "correct": true
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver negatív értékeket is elfogad bemenetként.",
+        "correct": false
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver csak egész értékeket kezel.",
+        "correct": false
+      },
+      {
+        "text": "Programozási hiba, ha a szoftver nem képes kiszámolni egy tetszőleges deltoid területét.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a fault coverage?",
+    "options": [
+      {
+        "text": "Azon hibák százalékos aránya az összes feltételezett hibához képest, amelyeket a tesztkészlet detektálni tud.",
+        "correct": true
+      },
+      {
+        "text": "Teszteknek olyan összessége, amely a szoftver mindegyik előre feltételezett és detektálható hibájának tesztjét magában foglalja.",
+        "correct": false
+      },
+      {
+        "text": "A bemeneti tesztsorozat és az elvárt válaszjelek meghatározása egy előre feltételezett hibahalmazra nézve.",
+        "correct": false
+      },
+      {
+        "text": "Bemeneti adatok olyan rendezett sorozata, melynek hatására az adott hibát tartalmazó szoftver a legutolsó adatkombinációra a helyestől eltérő (hibás) kimeneti adatkombinációval válaszol.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely állítás igaz?",
+    "options": [
+      {
+        "text": "A fault coverage esetén a cél a 100%-os lefedés.",
+        "correct": true
+      },
+      {
+        "text": "A tesztkészlet esetén a cél a 100%-os lefedés.",
+        "correct": true
+      },
+      {
+        "text": "A tesztkészlet lefedettsége 100%-os.",
+        "correct": false
+      },
+      {
+        "text": "A fault coverage lefedettsége 100%-os.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy megrendelő olyan szoftvert szeretne, aminek segítségével tetszőleges háromszög és tetszőleges négyszög területét tudja kiszámolni. Ezen megrendelés esetén mely állítások bizonyulnak igaznak?",
+    "options": [
+      {
+        "text": "Specifikációs hiba, ha a szoftver csak háromszögek területét képes kiszámítani.",
+        "correct": true
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver képes kiszámolni a négyszögek kerületét.",
+        "correct": true
+      },
+      {
+        "text": "Programozási hiba, ha a szoftver bizonyos háromszögek esetén hibás kimenetet ad.",
+        "correct": true
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver negatív értékeket is elfogad bemenetként.",
+        "correct": false
+      },
+      {
+        "text": "Specifikációs hiba, ha a szoftver csak egész értékeket kezel.",
+        "correct": false
+      },
+      {
+        "text": "Programozási hiba, ha a szoftver nem képes kiszámolni egy tetszőleges deltoid területét.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szoftverfejlesztés minőségének javítására irányuló hibaelemzésnek mi az utolsó három lépése és milyen sorrendben követik egymást?",
+    "options": [
+      {
+        "text": "4. Mindegyik kategóriához meghatározzák a teljes javítási költséget.",
+        "correct": true
+      },
+      {
+        "text": "5. A kapott adatok alapján megvizsgálják azokat a kategóriákat, amelyek a cég számára a legnagyobb költséget okozták.",
+        "correct": true
+      },
+      {
+        "text": "6. Terveket dolgoznak ki arra vonatkozóan, hogy miként módosítsák azokat a folyamatokat, amelyek a leginkább költséges kategóriákra vezettek.",
+        "correct": true
+      },
+      {
+        "text": "4. Megállapítják az egyes kategóriákba eső hibák számát, és a kategóriákat sorba rendezik, csökkenő sorrendben.",
+        "correct": false
+      },
+      {
+        "text": "5. Mindegyik kategóriához meghatározzák a teljes javítási költséget.",
+        "correct": false
+      },
+      {
+        "text": "6. Feljegyzik az egyes hibák kijavítására fordított költséget.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Hogyan hívhatjuk még a fekete doboz tesztelést?",
+    "options": [
+      {
+        "text": "Funkcionális tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Vasdoboz tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Iron-box testing",
+        "correct": true
+      },
+      {
+        "text": "Black-box testing",
+        "correct": true
+      },
+      {
+        "text": "Glass-box testing",
+        "correct": false
+      },
+      {
+        "text": "White-box testing",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Hogyan hívhatjuk még a fehér doboz tesztelést?",
+    "options": [
+      {
+        "text": "Strukturális tesztelés",
+        "correct": true
+      },
+      {
+        "text": "White-box testing",
+        "correct": true
+      },
+      {
+        "text": "Iron-box testing",
+        "correct": false
+      },
+      {
+        "text": "Sand-box testing",
+        "correct": false
+      },
+      {
+        "text": "Glasses-box testing",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely állítás igaz?",
+    "options": [
+      {
+        "text": "Funkcionális tesztelés esetén a szoftvert bemeneti értékekkel látjuk el és figyeljük a kapott kimeneti értékeket.",
+        "correct": true
+      },
+      {
+        "text": "Funkcionális tesztelés esetén a szoftvert a külső viselkedésében vizsgáljuk.",
+        "correct": true
+      },
+      {
+        "text": "Funkcionális tesztelés esetén a szoftver összes specifikált funkciójának vizsgálata a cél.",
+        "correct": true
+      },
+      {
+        "text": "Funkcionális tesztelés esetén a szoftver modulok (funkciók) tárgykódjának helyességét vizsgáljuk.",
+        "correct": false
+      },
+      {
+        "text": "Funkcionális tesztelés esetén a szoftver kódjának logikai felépítését vizsgáljuk.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely állítás igaz?",
+    "options": [
+      {
+        "text": "Strukturális tesztelés esetén a szoftver forráskódját vizsgáljuk.",
+        "correct": true
+      },
+      {
+        "text": "Strukturális tesztelés esetén a szoftver belső működésének a végigkövetése a cél.",
+        "correct": true
+      },
+      {
+        "text": "Strukturális tesztelés esetén a szoftvert bemeneti értékekkel látjuk el és figyeljük a kapott kimeneti értékeket.",
+        "correct": false
+      },
+      {
+        "text": "Strukturális tesztelés esetén a szoftver összes specifikált funkciójának vizsgálata a cél.",
+        "correct": false
+      },
+      {
+        "text": "Strukturális tesztelés esetén a szoftver modulok minél több bemenettel való ellátása a cél.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely tesztelési módszer vázlatos diagramja látható a képen? <br> <img src=\"image-17.png\">",
+    "options": [
+      {
+        "text": "Funkcionális tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Black-box testing",
+        "correct": true
+      },
+      {
+        "text": "Iron-box testing",
+        "correct": true
+      },
+      {
+        "text": "Glass-box testing",
+        "correct": false
+      },
+      {
+        "text": "Sand-box testing",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely tesztelési módszer vázlatos diagramja látható a képen? <br> <img src=\"image-18.png\">",
+    "options": [
+      {
+        "text": "Strukturális tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Üvegdoboz tesztelés",
+        "correct": true
+      },
+      {
+        "text": "White-box testing",
+        "correct": true
+      },
+      {
+        "text": "Iron-box testing",
+        "correct": false
+      },
+      {
+        "text": "Sand-box testing",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbi ábra esetén miként nevezné el a függőleges tengelyt? <br> <img src=\"image-19.png\">",
+    "options": [
+      {
+        "text": "További hibák létezésének valószínűsége.",
+        "correct": true
+      },
+      {
+        "text": "További hibák száma.",
+        "correct": false
+      },
+      {
+        "text": "Szoftver modulok száma.",
+        "correct": false
+      },
+      {
+        "text": "Modul komplexitás mértéke.",
+        "correct": false
+      },
+      {
+        "text": "Kódméret KLOC-ban.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tegyük fel, hogy egy szoftver két modulból épül fel: A és B modul. Az A modulban eddig két hibát találtunk, a B modulban pedig nyolcat. Glenford Myers megfogalmazása szerint mely állít helyes?",
+    "options": [
+      {
+        "text": "Ha a B modult még nem vizsgáltuk meg alaposan, akkor nagyobb valószínűséggel találunk a B modulban hibát, mint az A modulban.",
+        "correct": true
+      },
+      {
+        "text": "Mivel az A modulban lényegesen kevesebb hibát detektáltunk, mint a B modulban, ezért nagyobb a valószínűsége, hogy az A modulban további hibákat találunk.",
+        "correct": false
+      },
+      {
+        "text": "A hibák felfedésével egyre kisebb a további hibát felfedésének a valószínűsége, ezért az A modulban nagyobb valószínűséggel találunk még hibát.",
+        "correct": false
+      },
+      {
+        "text": "Pusztán a már detektált hibák számából nem lehet becslést adni a szoftver modulokban található felfedetlen hibák számára.",
+        "correct": false
+      },
+      {
+        "text": "Ha ugyanakkora energia befektetéssel a B modulban több hibát találtunk, akkor valószínűleg az A modul már elég alaposan letesztelt, így a további hibák valószínűleg a B modulban lesznek.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az integrációs tesztelésnek milyen megoldásai léteznek?",
+    "options": [
+      {
+        "text": "Együttes tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Big bang testing",
+        "correct": true
+      },
+      {
+        "text": "Inkrementális tesztelés",
+        "correct": true
+      },
+      {
+        "text": "Strukturális tesztelés",
+        "correct": false
+      },
+      {
+        "text": "Funkcionális tesztelés",
+        "correct": false
+      },
+      {
+        "text": "Iron-box testing",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mit jelent egy modul izolált tesztelése?",
+    "options": [
+      {
+        "text": "A modult a környezetéből kiragadva, függőségeit helyettesítve teszteljük.",
+        "correct": true
+      },
+      {
+        "text": "A modult mindentől függetlenül, önmagában teszteljük.",
+        "correct": false
+      },
+      {
+        "text": "A modult oly módon teszteljük, hogy annak forráskódját a tesztelés során teljes mértékben bejárjuk.",
+        "correct": false
+      },
+      {
+        "text": "A tesztelés során csak a bemeneti értékekre adott kimeneti értékeket vesszük figyelembe.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbi ábra esetén miként nevezné el a tesztelt modult hívó modult, és a tesztelt modul által hívott modulokat? <br> <img src=\"image-20.png\">",
+    "options": [
+      {
+        "text": "A tesztelt modult a meghajtó modul hívja.",
+        "correct": true
+      },
+      {
+        "text": "A tesztelt modul a csonk modulokat hívja.",
+        "correct": true
+      },
+      {
+        "text": "A tesztelt modult a fő modul hívja.",
+        "correct": false
+      },
+      {
+        "text": "A tesztelt modul az izolált modulokat hívja.",
+        "correct": false
+      },
+      {
+        "text": "A tesztelt modult a szülő modul hívja.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a meghajtó modul esetén?",
+    "options": [
+      {
+        "text": "Egy modul izolált ellenőrzése során használjuk.",
+        "correct": true
+      },
+      {
+        "text": "A tesztelendő modult meghívó modult helyettesítjük vele.",
+        "correct": true
+      },
+      {
+        "text": "A tesztelendő modul információt szolgáltat a meghajtó modul számára.",
+        "correct": true
+      },
+      {
+        "text": "Együttes tesztelés során, azon belül a hívási hierarchia szerinti vizsgálatnál használjuk.",
+        "correct": false
+      },
+      {
+        "text": "A tesztelendő modult helyettesítjük vele.",
+        "correct": false
+      },
+      {
+        "text": "A strukturális tesztelés során használjuk.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a csonk modul esetén?",
+    "options": [
+      {
+        "text": "Inkrementális tesztelés során, azon belül a hívási hierarchia szerinti vizsgálatnál használjuk.",
+        "correct": true
+      },
+      {
+        "text": "A tesztelendő modul által meghívót modulokat helyettesítjük vele.",
+        "correct": true
+      },
+      {
+        "text": "Egy modul izolált ellenőrzése során használjuk.",
+        "correct": true
+      },
+      {
+        "text": "Azokat a modulokat hívjuk így, melyek a végleges rendszerben nem fognak szerepelni, csak a tesztelés során használtuk fel, egy másik modul vizsgálata során.",
+        "correct": false
+      },
+      {
+        "text": "A Funkcionális tesztelés során használjuk.",
+        "correct": false
+      },
+      {
+        "text": "A tesztelendő modult helyettesítjük vele.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely állítás igaz?",
+    "options": [
+      {
+        "text": "A csonk modulnak az esetek többségében valamilyen számítást is kell végeznie, mielőtt visszaadná a vezérlést a hívó félnek.",
+        "correct": true
+      },
+      {
+        "text": "Előfordulhat, hogy a csonk modulok hívása több szinten keresztül zajlik.",
+        "correct": true
+      },
+      {
+        "text": "Érdemes külön meghajtó modult írni a fehér és fekete dobozos tesztelés esetén.",
+        "correct": true
+      },
+      {
+        "text": "Egy meghajtó modulnak kettős feladata van: meghívja a tesztelendő modult és ellátja vezérlési paraméterekkel.",
+        "correct": false
+      },
+      {
+        "text": "A csonk modulnak elegendő csupán visszaadnia a vezérlést a hívó fél számára, ezzel tesztelhető, hogy megfelelően működik kapcsolatok.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely állítás igaz?",
+    "options": [
+      {
+        "text": "Az együttes tesztelést célszerű használni, ha a rendszer működése jól áttekinthető.",
+        "correct": true
+      },
+      {
+        "text": "Az együttes tesztelést célszerű használni, ha a fejlesztés magas minőségi szinten, a hibaelkerülési elvek messzemenő betartásával ment végbe.",
+        "correct": true
+      },
+      {
+        "text": "Az együttes tesztelés hátránya a hibalokalizálás nehéz kivitelezhetősége.",
+        "correct": false
+      },
+      {
+        "text": "Az együttes tesztelést a gyakorlatban nem alkalmazzuk, csupán szemléltető eszközként használjuk a big bang káros következményeinek bemutatására.",
+        "correct": false
+      },
+      {
+        "text": "Az együttes tesztelést csak olyan esetben célszerű használni, ha a modulok kellő körültekintéssel lettek tesztelve, beleértve a modulok kapcsolatát megvalósító interfészeket is.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy inkrementális tesztelés első három fázisa látható. Mi mondható el róla? <br> 1) {A, B} modulok: T1, T2, T3 tesztek. <br> 2) {A, B, C} modulok: T1, T2, T3, T4 tesztek. <br> 3) {A, B, C, D} modulok: T1, T2, T3, T4, T5 tesztek.",
+    "options": [
+      {
+        "text": "Ezt a tesztelési módszert regresszív tesztelésnek nevezzük.",
+        "correct": true
+      },
+      {
+        "text": "Ezt a tesztelési módszert regressziós tesztelésnek nevezzük.",
+        "correct": true
+      },
+      {
+        "text": "Ezt a tesztelési módszert visszaható tesztelésnek nevezzük.",
+        "correct": true
+      },
+      {
+        "text": "Ezt a tesztelési módszert architekturális tesztelésnek nevezzük.",
+        "correct": false
+      },
+      {
+        "text": "Ezt a tesztelési módszert rekurzív tesztelésnek nevezzük.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vegyük az alábbi inkrementális tesztelés első kettő fázisát. Tegyük fel, hogy az első menetben az A és a B modulok tesztelésére szolgáló T1 teszt sikeresen lezajlott, nem talált hibát. Előfordulhat, hogy a második menetben T1 mégis talál hibát? <br>1) {A, B} modulok: T1 teszt. <br>2) {A, B, C} modulok: T1, T2, T3, T4 tesztek.",
+    "options": [
+      {
+        "text": "Igen, a beépülő C modul kölcsönhatásai végett újabb hibák kerülhetnek felszínre az A és B modulban.",
+        "correct": true
+      },
+      {
+        "text": "Igen, a beépülő C modul szintén tartalmazhat hibákat, amiket kimutathat a T1 teszt.",
+        "correct": false
+      },
+      {
+        "text": "Nem, a második menetben T1 teszt nem kerül végrehajtásra, csak az újonnan belépő T2, T3 és T4 tesztekkel vizsgálunk.",
+        "correct": false
+      },
+      {
+        "text": "Attól függ, hogy a beépítésre került C modul milyen kapcsolatban áll az A és a B modulokkal.",
+        "correct": false
+      },
+      {
+        "text": "Nem, mert a T1 teszt kizárólag az A és a B modul kapcsolatát vizsgálja, ezért a további modulok beépítése nincs kihatással.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Előfordulhat, hogy tesztelés során nincs szükség meghajtó modulokra csak csonk modulokra?",
+    "options": [
+      {
+        "text": "Igen, top-down integrálás esetén az elkészült és letesztelt modulok használhatóak meghajtóként.",
+        "correct": true
+      },
+      {
+        "text": "Igen, ha az tesztelt modul működése egyértelműen specifikált, akkor elhagyható a meghajtó modul.",
+        "correct": false
+      },
+      {
+        "text": "Igen, ha strukturális tesztelést használunk, elegendő csak csonk modulokat készíteni.",
+        "correct": false
+      },
+      {
+        "text": "Nem, meghajtó modulra mindig szükség van. Csak olyan fordulhat elő, hogy további csonkok nemszükségesek.",
+        "correct": false
+      },
+      {
+        "text": "Nem, a meghajtó és csonk modulokra egyaránt szükség van, hogy a tesztelendő modul teljes környezetet helyettesíteni tudjuk.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Előfordulhat, hogy tesztelés során nincs szükség csonk modulokra csak meghajtó modulokra?",
+    "options": [
+      {
+        "text": "Igen, bottom-up integrálás esetén az elkészült és letesztelt modulok használhatóak csonkként.",
+        "correct": true
+      },
+      {
+        "text": "Igen, ha az tesztelt modul működése egyértelműen specifikált, akkor elhagyható a csonk modul.",
+        "correct": false
+      },
+      {
+        "text": "Igen, ha strukturális tesztelést használunk, elegendő csak meghajtó modulokat készíteni.",
+        "correct": false
+      },
+      {
+        "text": "Nem, csonk modulra mindig szükség van. Csak olyan fordulhat elő, hogy további meghajtók nem szükségesek.",
+        "correct": false
+      },
+      {
+        "text": "Nem, a meghajtó és csonk modulokra egyaránt szükség van, hogy a tesztelendő modul teljes környezetet helyettesíteni tudjuk.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz az alábbi jelölés esetén? <br> MH(2) = {A, B, CS(E), CS(C), CS(D)}",
+    "options": [
+      {
+        "text": "Top-down tesztelésről van szó.",
+        "correct": true
+      },
+      {
+        "text": "Az integrálási folyamatban eddig két lépést tettünk meg.",
+        "correct": true
+      },
+      {
+        "text": "Az adott fázisban három csonk modul található.",
+        "correct": true
+      },
+      {
+        "text": "Az adott fázisig az A modul már biztosan le lett tesztelve.",
+        "correct": true
+      },
+      {
+        "text": "Az adott fázisban kettő meghajtó modul található.",
+        "correct": false
+      },
+      {
+        "text": "Bottom-up tesztelésről van szó.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Top-down módszer esetén hány lépésben célszerű összeintegrálni az alábbi rendszert? <br> <img src=\"image-21.png\">",
+    "options": [
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Bottom-up módszer esetén hány lépésben célszerű összeintegrálni az alábbi rendszert? <br> <img src=\"image-22.png\">",
+    "options": [
+      {
+        "text": "5",
+        "correct": true
+      },
+      {
+        "text": "6",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "4",
+        "correct": false
+      },
+      {
+        "text": "2",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz az alábbi jelölés esetén? <br> MH(4) = {E, B, M(B)}",
+    "options": [
+      {
+        "text": "Bottom-up tesztelésről van szó.",
+        "correct": true
+      },
+      {
+        "text": "Az adott fázisban egy meghajtó modul található.",
+        "correct": true
+      },
+      {
+        "text": "Az adott fázisban E modul már biztosan le lett tesztelve.",
+        "correct": true
+      },
+      {
+        "text": "Hibás a jelölés, mert a B modul már szerepel a halmazban, ezért nincs szükség M(B)-re.",
+        "correct": false
+      },
+      {
+        "text": "Az integrálási folyamatban eddig három lépést tettünk meg.",
+        "correct": false
+      },
+      {
+        "text": "Top-down tesztelésről van szó.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mikor érdemes a bottom-up építkezést használni inkrementális tesztelés esetén?",
+    "options": [
+      {
+        "text": "Ha a komolyabb hibák lent keletkeznek a hierarchiában.",
+        "correct": true
+      },
+      {
+        "text": "Ha a komolyabb hibák fent keletkeznek a hierarchiában.",
+        "correct": false
+      },
+      {
+        "text": "Ha a modulok túlnyomó többsége a hierarchia tetején található.",
+        "correct": false
+      },
+      {
+        "text": "Ha a modulok túlnyomó többsége a hierarchia alján található.",
+        "correct": false
+      },
+      {
+        "text": "Nem érdemes a top-down építkezést használni, mert jellemzően bonyolultabb, mint a bottom-up.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a szendvics tesztelés?",
+    "options": [
+      {
+        "text": "A top-down és bottom-up megközelítés egyszerre történő alkalmazása.",
+        "correct": true
+      },
+      {
+        "text": "Az összes modul egy menetben történő, együttes tesztelése.",
+        "correct": false
+      },
+      {
+        "text": "A modulok izolált módon történő tesztelése.",
+        "correct": false
+      },
+      {
+        "text": "A modulok véletlenszerű tesztelése és integrálása.",
+        "correct": false
+      },
+      {
+        "text": "Inkrementális tesztelés esetén a lentről felfelé történő tesztelési módszer.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely igaz?",
+    "options": [
+      {
+        "text": "Együttes tesztelésnél a modulokat izolált módon kell tesztelni.",
+        "correct": true
+      },
+      {
+        "text": "Inkrementális tesztelés esetén nincs szükség meghajtó és csonk modulok együttes alkalmazására.",
+        "correct": true
+      },
+      {
+        "text": "Együttes tesztelés esetén beszélhetünk top-down és bottm-up megközelítésről.",
+        "correct": false
+      },
+      {
+        "text": "Együttes tesztelés esetén kevesebb segédprogram megírására van szükség, mint inkrementális tesztelés esetén.",
+        "correct": false
+      },
+      {
+        "text": "Inkrementális tesztelésnél a modulokat izolált módon kell tesztelni.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely igaz?",
+    "options": [
+      {
+        "text": "A modulok közti interfészek hibái korábban kiderülnek az inkrementális tesztelésénél, mint az együttes tesztelés esetén.",
+        "correct": true
+      },
+      {
+        "text": "Az inkrementális tesztelésnél könnyebb lokalizálni a hibákat, mint az együttes tesztelésnél.",
+        "correct": true
+      },
+      {
+        "text": "Együttes tesztelés esetén lehetséges párhuzamosítani a teszteléseket.",
+        "correct": true
+      },
+      {
+        "text": "Az inkrementális tesztelésnél minden modulhoz el kell készíteni annak környezetét meghajtó és csonk modulok formájában.",
+        "correct": false
+      },
+      {
+        "text": "Ha egy hibát észlelünk az együttes tesztelés esetén, az mindig az új modulban vagy annak valamely kapcsolatában gyökeredzik.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy készülő operációs rendszert szeretnénk tesztelni inkrementális módszerrel. Milyen megközelítésben lenne célszerű elvégezni a tesztelést és miért?",
+    "options": [
+      {
+        "text": "A rendszert bottom-up módszerrel célszerű tesztelni, mert az operációs rendszerek tipikusan réteg szervezésű szoftverek.",
+        "correct": true
+      },
+      {
+        "text": "A rendszert top-down módszerrel célszerű tesztelni, mert az operációs rendszerek komplexitása jellemzően a hierarchia alsóbb rétegeibe szerveződik.",
+        "correct": false
+      },
+      {
+        "text": "A rendszert big bang módszerrel célszerű tesztelni, mert így a hibák jelentős hányada könnyen lokalizálható.",
+        "correct": false
+      },
+      {
+        "text": "A rendszert szendvics módszerrel célszerű tesztelni, mert így a tesztelés könnyen párhuzamosítható, amit egy ilyen volumenű szoftver tesztelése egyértelműen megkíván.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a komponens alapú fejlesztés?",
+    "options": [
+      {
+        "text": "Egy olyan folyamat, amelyben egymástól független komponenseket tervezünk be és integrálunk egy közös szoftver rendszerbe.",
+        "correct": true
+      },
+      {
+        "text": "Egy olyan szoftver fejlesztési megközelítés, ahol olyan újra felhasználható modulokat gyártunk, melyek különböző rendszerekbe beépíthetőek.",
+        "correct": false
+      },
+      {
+        "text": "Komponens alapú fejlesztés során a szoftver rendszert funkciók szerinti modulokra bontjuk, és az egyes modulokat önállóan fejlesztjük le.",
+        "correct": false
+      },
+      {
+        "text": "Ebben a megközelítésben a szoftver rendszert nem egy menetben készítjük el, hanem úgynevezett komponenseket írunk iteratív módon.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi jellemzi a komponens alapú fejlesztést?",
+    "options": [
+      {
+        "text": "A komponensek az interfészükkel vannak specifikálva.",
+        "correct": true
+      },
+      {
+        "text": "Minden komponens tartalmaz interfészt.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek szabványa előírja, hogy miként kell kommunikálni a komponenseknek.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek szabványosítva vannak, mely előírja a programozási nyelvüket is.",
+        "correct": false
+      },
+      {
+        "text": "A komponensek middleware szoftverek segítségével kommunikálnak egymással.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a middleware esetén?",
+    "options": [
+      {
+        "text": "Egymástól független elemek együttműködésére használjuk.",
+        "correct": true
+      },
+      {
+        "text": "Egy middleware például a CORBA.",
+        "correct": true
+      },
+      {
+        "text": "Egy middleware például az EJB.",
+        "correct": true
+      },
+      {
+        "text": "Arra használjuk, hogy egy régi technológiával készült szoftver komponens kapcsolatba tudjon lépni modernebb komponensekkel is.",
+        "correct": false
+      },
+      {
+        "text": "A szoftver komponensek között helyezkedik el, másik megnevezése az interfész.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ian Sommerville szerint milyen tulajdonságokkal kell rendelkeznie egy szoftver komponensnek?",
+    "options": [
+      {
+        "text": "Szabványosított",
+        "correct": true
+      },
+      {
+        "text": "Független",
+        "correct": true
+      },
+      {
+        "text": "Beépíthető",
+        "correct": true
+      },
+      {
+        "text": "Módosítható",
+        "correct": false
+      },
+      {
+        "text": "Hatékony",
+        "correct": false
+      },
+      {
+        "text": "Mozgatható",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ian Sommerville szerint milyen tulajdonságokkal kell rendelkeznie egy szoftver komponensnek?",
+    "options": [
+      {
+        "text": "Telepíthető",
+        "correct": true
+      },
+      {
+        "text": "Dokumentált",
+        "correct": true
+      },
+      {
+        "text": "Újra-felhasználható",
+        "correct": false
+      },
+      {
+        "text": "Tesztelhető",
+        "correct": false
+      },
+      {
+        "text": "Karbantartható",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mit írna a betűkkel jelzett helyekre? <br> <img src=\"image-23.png\">",
+    "options": [
+      {
+        "text": "A: komponens, B: igénylési interfész, C: szolgáltatási interfész",
+        "correct": true
+      },
+      {
+        "text": "A: interfész, B: bemeneti kapcsolatok, C: kimeneti kapcsolatok",
+        "correct": false
+      },
+      {
+        "text": "A: middleware, B: igénylő komponens, C: kiszolgáló komponens",
+        "correct": false
+      },
+      {
+        "text": "A: modul, B: fan-in, C: fan-out",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz az alábbi ábra esetén? <br> <img src=\"image-24.png\">",
+    "options": [
+      {
+        "text": "Az ábrán komponensek és interfészeik viszonya látható.",
+        "correct": true
+      },
+      {
+        "text": "Az ábrán 6 szolgáltatási interfész látható.",
+        "correct": true
+      },
+      {
+        "text": "Az ábrán 5 fan-in látható.",
+        "correct": false
+      },
+      {
+        "text": "Az ábrán 5 szolgáltatási interfész látható",
+        "correct": false
+      },
+      {
+        "text": "Az ábrán szoftver modulok és kapcsolataik látható.",
+        "correct": false
+      },
+      {
+        "text": "A kettes számú szoftver modul két bemeneti adatot vár.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a szolgáltatási interfész esetén?",
+    "options": [
+      {
+        "text": "Lényegében ez a komponens API-ja.",
+        "correct": true
+      },
+      {
+        "text": "A komponens által nyújtott szolgáltatásokat definiálja.",
+        "correct": true
+      },
+      {
+        "text": "A komponens által felhasznált szolgáltatásokat definiálja.",
+        "correct": false
+      },
+      {
+        "text": "Jele egy zárt félkör.",
+        "correct": false
+      },
+      {
+        "text": "Jele egy nyitott félkör.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz az igénylési interfész esetén?",
+    "options": [
+      {
+        "text": "A komponens által fogadott és használt szolgáltatásokat definiálja.",
+        "correct": true
+      },
+      {
+        "text": "OO-megközelítésben az objektumok azon metódusait definiálja, amelyeket a komponenst használó",
+        "correct": false
+      },
+      {
+        "text": "szoftver hívni tud.",
+        "correct": false
+      },
+      {
+        "text": "A komponenstől igényelhető szolgáltatásokat definiálja.",
+        "correct": false
+      },
+      {
+        "text": "Jele egy kör.",
+        "correct": false
+      },
+      {
+        "text": "Jele egy zárt félkör.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely igaz?",
+    "options": [
+      {
+        "text": "A komponensek azonnal elindíthatóak, nem kell őket együttesen lefordítani.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek nem definiálnak adattípust.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek megvalósítása ismeretlen is lehet.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek forráskódja mindig rendelkezésre áll.",
+        "correct": false
+      },
+      {
+        "text": "A komponensek azonnal futtathatóak, de ha együttesen szeretnénk őket használni, akkor újra",
+        "correct": false
+      },
+      {
+        "text": "fordítás szükséges.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely igaz?",
+    "options": [
+      {
+        "text": "A komponensek nyelvtől függetlenek.",
+        "correct": true
+      },
+      {
+        "text": "A komponensek szabványosítva vannak.",
+        "correct": true
+      },
+      {
+        "text": "Komponensek esetén biztosan rendelkezésre áll a forráskód.",
+        "correct": false
+      },
+      {
+        "text": "A komponensek tetszőleges módon, megkötés nélkül megvalósíthatóak.",
+        "correct": false
+      },
+      {
+        "text": "Csak ugyanazon nyelven írt komponensek tudnak együttműködni.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a legacy systems esetén?",
+    "options": [
+      {
+        "text": "Általában fontos üzleti funkciót látnak el.",
+        "correct": true
+      },
+      {
+        "text": "Régi technológiával készültek.",
+        "correct": true
+      },
+      {
+        "text": "Jól bevált megoldásokat valósítanak meg.",
+        "correct": true
+      },
+      {
+        "text": "Fejlesztő vállalat fő szoftver terméke.",
+        "correct": false
+      },
+      {
+        "text": "Külső vállalat által készített szoftver komponens.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi igaz a csomagoló program esetén?",
+    "options": [
+      {
+        "text": "A csomagoló program egy interfész.",
+        "correct": true
+      },
+      {
+        "text": "A csomagoló program feladata, hogy a régi szoftver összes funkcióját közvetítse.",
+        "correct": true
+      },
+      {
+        "text": "A csomagoló program feladata, hogy egy korábban írt szoftvert új funkciókkal lásson el.",
+        "correct": false
+      },
+      {
+        "text": "Angol megnevezése a boxing-application.",
+        "correct": false
+      },
+      {
+        "text": "Angol megnevezése a warper.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Komponens alapú fejlesztés esetén mi a fejlesztési modell első három lépése és azok sorrendje?",
+    "options": [
+      {
+        "text": "1. A rendszerkövetelmények meghatározása",
+        "correct": true
+      },
+      {
+        "text": "2. A számításba vehető komponensek azonosítása",
+        "correct": true
+      },
+      {
+        "text": "3. A követelmények módosítása a megtalált komponensekhez igazodva",
+        "correct": true
+      },
+      {
+        "text": "1. Felhasználó követelmények felmérése",
+        "correct": false
+      },
+      {
+        "text": "2. Rendszertervezés",
+        "correct": false
+      },
+      {
+        "text": "3. A számításba vehető komponensek azonosítása",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Komponens alapú fejlesztés esetén mi a fejlesztési modell második három lépése és azok sorrendje?",
+    "options": [
+      {
+        "text": "4. Architekturális tervezés",
+        "correct": true
+      },
+      {
+        "text": "5. A számításba vehető komponensek azonosítása",
+        "correct": true
+      },
+      {
+        "text": "6. A komponensek egybeépítése, a teljes szoftver rendszer létrehozása",
+        "correct": true
+      },
+      {
+        "text": "4. Komponensek tervezése",
+        "correct": false
+      },
+      {
+        "text": "5. Rendszer integrálása és validálása",
+        "correct": false
+      },
+      {
+        "text": "6. Rendszer üzemeltetés és karbantartás",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mely fejlesztési modell vázlatos diagramja látható a képen? <br> <img src=\"image-25.png\">",
+    "options": [
+      {
+        "text": "Komponens alapú fejlesztés",
+        "correct": true
+      },
+      {
+        "text": "Inkrementális fejlesztés",
+        "correct": false
+      },
+      {
+        "text": "Vízesés modell",
+        "correct": false
+      },
+      {
+        "text": "Prototípus alapú fejlesztés",
+        "correct": false
+      },
+      {
+        "text": "V-modell",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mely igaz a komponens alapú fejlesztés esetén?",
+    "options": [
+      {
+        "text": "Komponens alapú fejlesztés esetén előfordulhat, hogy egy komponenst nekünk kell elkészítenünk.",
+        "correct": true
+      },
+      {
+        "text": "Az architekturális tervezés után előfordulhat, hogy bizonyos komponensek nem illenek a rendszerbe.",
+        "correct": true
+      },
+      {
+        "text": "A követelményeket a fejlesztés során már nem változtatjuk.",
+        "correct": false
+      },
+      {
+        "text": "Előfordulhat, hogy még a komponensek azonosítása előtt vissza kell lépni a fejlesztés kezdeti szakaszához.",
+        "correct": false
+      },
+      {
+        "text": "Komponens alapú fejlesztés esetén mindig csak előre gyártott szoftver komponensekből építkezünk.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Komponens alapú fejlesztés esetén mely fázisokban mely lépései zajlanak a komponensek azonosításának?",
+    "options": [
+      {
+        "text": "A második fázisban történik a komponensek keresése és kiválasztása, az ötödik fázisban történik a komponensek validálása.",
+        "correct": true
+      },
+      {
+        "text": "A második fázisban történik a komponensek keresése, az ötödik fázisban történik a komponensek kiválasztása és validálása.",
+        "correct": false
+      },
+      {
+        "text": "A harmadik fázisban történik a komponensek keresése és kiválasztása, a negyedik fázisban történik a komponensek validálása.",
+        "correct": false
+      },
+      {
+        "text": "A harmadik fázisban történik a komponensek keresése, a negyedik fázisban történik a komponensek kiválasztása és validálása.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi a software maintenance?",
+    "options": [
+      {
+        "text": "Az üzembe helyezést követően, a normál felhasználás alatt elvégzendő szoftver-változtatások folyamata.",
+        "correct": true
+      },
+      {
+        "text": "A szoftver validálása során elvégzendő hibajavítási folyamat.",
+        "correct": false
+      },
+      {
+        "text": "A szoftver új funkciókkal való bővítési folyamata.",
+        "correct": false
+      },
+      {
+        "text": "Szoftver meghibásodás esetén elvégzendő folyamat.",
+        "correct": false
+      },
+      {
+        "text": "A szoftver üzembe helyezését megelőző, a teljes rendszert érintő validációs folyamat.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "A szoftver-karbantartásnak milyen típusai vannak?",
+    "options": [
+      {
+        "text": "Javító karbantartás",
+        "correct": true
+      },
+      {
+        "text": "Adaptív karbantartás",
+        "correct": true
+      },
+      {
+        "text": "Kibővítő karbantartás",
+        "correct": true
+      },
+      {
+        "text": "Módosító karbantartás",
+        "correct": false
+      },
+      {
+        "text": "Tervezési karbantartás",
+        "correct": false
+      },
+      {
+        "text": "Kódolási karbantartás",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mi az SMI?",
+    "options": [
+      {
+        "text": "Egy karbantartási mérőszám.",
+        "correct": true
+      },
+      {
+        "text": "A szoftver érettségi foka.",
+        "correct": true
+      },
+      {
+        "text": "Komponens alapú fejlesztést megvalósító programozási nyelv.",
+        "correct": false
+      },
+      {
+        "text": "Komponens alapú fejlesztési irányelv.",
+        "correct": false
+      },
+      {
+        "text": "Forráskódra vonatkozó mérőszám.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Egy szoftver esetén SMI = 1,2. Milyen értékekkel kaphattuk ezt?",
+    "options": [
+      {
+        "text": "Egyik sem.",
+        "correct": true
+      },
+      {
+        "text": "M = 1,2; F(vált) = 0; F(új) = 0; F(tör) = 0",
+        "correct": false
+      },
+      {
+        "text": "M = 1; F(vált) = 0,1; F(új) = 0,1; F(tör) = 0",
+        "correct": false
+      },
+      {
+        "text": "M = 0,6; F(vált) = 0; F(új) = 0; F(tör) = 2",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül mi igaz a szoftver érettségi indexe esetén?",
+    "options": [
+      {
+        "text": "Értékének kiszámításához négy paraméter szükséges.",
+        "correct": true
+      },
+      {
+        "text": "A szoftver érettségi fokának értéke nem lehet egynél nagyobb.",
+        "correct": false
+      },
+      {
+        "text": "Ha egy szoftveren változtatást végzünk, akkor az SMI értéke maximum egy lehet.",
+        "correct": false
+      },
+      {
+        "text": "Az F(vált) érték a modulban található változók számát adja meg.",
+        "correct": false
+      },
+      {
+        "text": "Az M érték megadja a modulok komplexitását.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Miként számolhatjuk ki egy szoftver SMI értékét?",
+    "options": [
+      {
+        "text": "SMI = (M – (F(vált) + F(új) + F(tör))) / M",
+        "correct": true
+      },
+      {
+        "text": "SMI = (M * (F(vált) + F(új) + F(tör))) / M^2",
+        "correct": false
+      },
+      {
+        "text": "SMI = (M + (F(vált) * F(új) * F(tör))) / M",
+        "correct": false
+      },
+      {
+        "text": "SMI = (F(vált) + F(új) + F(tör)) / M",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ha egy szoftvernek M modulja van és ebből K darabot megváltoztatunk, akkor hány interfészt kell megvizsgálnunk a modulok változtatása után?",
+    "options": [
+      {
+        "text": "K * (M - K) + (K * (K - 1)) / 2",
+        "correct": true
+      },
+      {
+        "text": "(M - K) + (K * (M - 1)) / 2",
+        "correct": false
+      },
+      {
+        "text": "A megadott információból nem meghatározható.",
+        "correct": false
+      },
+      {
+        "text": "Ennek meghatározásához szükség van a modulok fan-in és fan-out értékeire.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
     "question": "Mit jelent a „Use case”?",
     "options": [
       {
@@ -6434,32 +7098,6 @@
       },
       {
         "text": "Használati eset, szoftverfunkció, amelyet a fejlesztendő szoftverrendszernek meg kell valósítani.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mik az UML általános szerepei a fejlesztésben?",
-    "options": [
-      {
-        "text": "Vizuálisan specifikálja, megjeleníti, ill. dokumentálja egy szoftver-fejlesztés fázisainak eredményét.",
-        "correct": true
-      },
-      {
-        "text": "Hasznos a különböző tervezési alternatívák leírására, valamint az eredmények dokumentálására.",
-        "correct": true
-      },
-      {
-        "text": "Az UML-diagramok a megvalósítandó objektum-orientált rendszer kizárólag dinamikus megjelenítésére szolgálnak.",
-        "correct": false
-      },
-      {
-        "text": "Az UML-diagramok egyaránt alkalmasak a megvalósítandó objektum-orientált rendszer statikus és dinamikus megjelenítésére.",
-        "correct": true
-      },
-      {
-        "text": "Az UML célja kizárólag a megrendelő – elemző párbeszéd segítése.",
         "correct": false
       }
     ],
@@ -6544,6 +7182,42 @@
     "explanation": ""
   },
   {
+    "question": "Mit jelent: refactoring?",
+    "options": [
+      {
+        "text": "A követelmények újra-összegyűjtését",
+        "correct": false
+      },
+      {
+        "text": "A kód olyan átalakítását, mellyel a funkcionalitás nem változik meg, de a kód jobbá, optimálisabbá válik.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Az alábbiak közül melyik jelentheti refactoring szükségességét?",
+    "options": [
+      {
+        "text": "Megduplázódott felhasználószám",
+        "correct": false
+      },
+      {
+        "text": "Új ügyfél, akinél bevezetik a terméket",
+        "correct": false
+      },
+      {
+        "text": "Hatalmas adatmennyiség",
+        "correct": false
+      },
+      {
+        "text": "Megduplázott kódrészek",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
     "question": "Mik tartoznak a rendszer határainak meghúzásához?",
     "options": [
       {
@@ -6556,32 +7230,6 @@
       },
       {
         "text": "Erőforrásbeli",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mi a felhasználói követelmények három csoportja?",
-    "options": [
-      {
-        "text": "Szakmai",
-        "correct": false
-      },
-      {
-        "text": "Nem funkcionális",
-        "correct": true
-      },
-      {
-        "text": "Szakterületi",
-        "correct": true
-      },
-      {
-        "text": "Üzleti",
-        "correct": false
-      },
-      {
-        "text": "Funkcionális",
         "correct": true
       }
     ],
@@ -6698,36 +7346,6 @@
     "explanation": ""
   },
   {
-    "question": "Funkcionális követelmények UML használata esetén mivel írhatóak le?",
-    "options": [
-      {
-        "text": "Telepítési és csomagdiagram",
-        "correct": false
-      },
-      {
-        "text": "Use case diagramok",
-        "correct": true
-      },
-      {
-        "text": "Csomagdiagram és petri-hálók",
-        "correct": false
-      },
-      {
-        "text": "Állapot átmeneti diagram",
-        "correct": true
-      },
-      {
-        "text": "Technikai aktivitási diagram",
-        "correct": true
-      },
-      {
-        "text": "Komponens diagram",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Az alábbiak közül melyek tartoznak a Use Case diagram elemei közé?",
     "options": [
       {
@@ -6761,19 +7379,19 @@
     "question": "Válassza ki egy funkció feljesztésének működőképes sorrendjét",
     "options": [
       {
-        "text": "Követelmények összegyűjtése  Tesztelés  Elemzés  Tervezés  Implementáció  Kibocsátás",
+        "text": "Követelmények összegyűjtése -> Tesztelés -> Elemzés -> Tervezés -> Implementáció -> Kibocsátás",
         "correct": false
       },
       {
-        "text": "Követelmények összegyűjtése  Elemzés  Tervezés  Implementáció Tesztelés  Kibocsátás",
+        "text": "Követelmények összegyűjtése -> Elemzés -> Tervezés -> Implementáció Tesztelés -> Kibocsátás",
         "correct": true
       },
       {
-        "text": "Elemzés  Követelmények összegyűjtése  Tervezés  Implementáció Tesztelés  Kibocsátás",
+        "text": "Elemzés -> Követelmények összegyűjtése -> Tervezés -> Implementáció Tesztelés -> Kibocsátás",
         "correct": false
       },
       {
-        "text": "Elemzés  Tervezés Követelmények összegyűjtése  Implementáció Tesztelés  Kibocsátás",
+        "text": "Elemzés -> Tervezés Követelmények összegyűjtése -> Implementáció Tesztelés -> Kibocsátás",
         "correct": false
       }
     ],
@@ -6844,24 +7462,6 @@
     "explanation": ""
   },
   {
-    "question": "Követelmények csoportosítása esetén milyen csoportosítás elképzelhető?",
-    "options": [
-      {
-        "text": "Belső és külső követlemények",
-        "correct": false
-      },
-      {
-        "text": "Funkcionális és nem funkcionális követelmények, szakterületi követelmények",
-        "correct": true
-      },
-      {
-        "text": "Publikus és védett követelmények",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mi a követelménymenedzsment célja?",
     "options": [
       {
@@ -6924,50 +7524,6 @@
     "explanation": ""
   },
   {
-    "question": "Milyen reláció van use case és forgatókönyvek között? Jelölje az igaz állításokat",
-    "options": [
-      {
-        "text": "Egy use casehez kötelezően egy forgatókönyv tartozik",
-        "correct": false
-      },
-      {
-        "text": "Egy use casehez tartozhat több forgatókönyv",
-        "correct": true
-      },
-      {
-        "text": "Egy use casehez kötelezően több forgatókönyv tartozik",
-        "correct": false
-      },
-      {
-        "text": "Use casehez nem feltétlenül tartozik forgatókönyv",
-        "correct": true
-      },
-      {
-        "text": "Minden forgatókönyvhöz tartozik use case",
-        "correct": true
-      },
-      {
-        "text": "Egy forgatókönyv tartozhat több use casehez is",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Forgatókönyvek az UML részét képezik?",
-    "options": [
-      {
-        "text": "Nem",
-        "correct": true
-      },
-      {
-        "text": "Igen",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Mik a jó forgatókönyv tulajdonságai?",
     "options": [
       {
@@ -7019,11 +7575,13 @@
       {
         "text": "A felhasználónak a szoftverrel szemben támasztott prioritási sorrendje.",
         "correct": false
-      },
-      {
-        "text": "Mik a felhasználói követelmények jellemzői?",
-        "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Mik a felhasználói követelmények jellemzői?",
+    "options": [
       {
         "text": "Gyakran részletesek, technikai megvalósítási részletekkel",
         "correct": false
@@ -7118,50 +7676,6 @@
       },
       {
         "text": "Tipikusan a tesztelés elején keletkezik",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mik a use case modell jellemzői?",
-    "options": [
-      {
-        "text": "Tervezett funkcionalitást írja le",
-        "correct": true
-      },
-      {
-        "text": "Tervezett működést írja le",
-        "correct": true
-      },
-      {
-        "text": "Felhasználói szemszögből készül",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Mik a use case modell elemei?",
-    "options": [
-      {
-        "text": "Aktorok",
-        "correct": true
-      },
-      {
-        "text": "Interfészek",
-        "correct": false
-      },
-      {
-        "text": "Kapcsolatok",
-        "correct": true
-      },
-      {
-        "text": "Use casek",
-        "correct": true
-      },
-      {
-        "text": "Osztályok",
         "correct": false
       }
     ],
@@ -7474,20 +7988,6 @@
     "explanation": ""
   },
   {
-    "question": "Mely állítások igazak a use casekre?",
-    "options": [
-      {
-        "text": "A követelményspecifikáció munkaszakaszban definiált use case-eket a szakirodalom fekete doboz use case-eknek (black-box use case) nevezi.",
-        "correct": true
-      },
-      {
-        "text": "A követelményspecifikáció munkaszakaszban definiált use case-eket a szakirodalom fehér doboz use case-eknek (white-box use case) nevezi.",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Milyen kategorizálás vonatkozhat use casekre?",
     "options": [
       {
@@ -7680,40 +8180,6 @@
       },
       {
         "text": "Feltételes megvalósulás",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Jelölje a use casek között értelmezett tartalmazási viszonyra igaz állításokat!",
-    "options": [
-      {
-        "text": "A szereplő által kezdeményezett (alap vagy normál) use case-ek végrehajtásában vannak olyan részek, lépések, amelyek mindegyik use case végrehajtásakor bekövetkeznek és azonos módon játszódnak le",
-        "correct": true
-      },
-      {
-        "text": "A modellben lehetnek use case-ek, amelyek végrehajtási menetében bizonyos feltételek bekövetkezésekor a vezérlés egy másik use case-nek adódik át. Ilyenkor a normál use case-nek egy bővített változata játszódik le.",
-        "correct": false
-      },
-      {
-        "text": "A tartalmazott use case végrehajtása feltétel nélküli, vagyis az alap use case végrehajtáskor mindig bekövetkezik, lejátszódik.",
-        "correct": true
-      },
-      {
-        "text": "A szaggatott nyíl az alap use case felé mutat.",
-        "correct": false
-      },
-      {
-        "text": "francia zárójelek közé írt <<include>> sztereotípiával jelöljük.",
-        "correct": true
-      },
-      {
-        "text": "Szaggatott nyíllal jelöljük.",
-        "correct": true
-      },
-      {
-        "text": "francia zárójelek közé írt <<extends>> sztereotípiával jelöljük.",
         "correct": false
       }
     ],
@@ -7942,20 +8408,6 @@
     "explanation": ""
   },
   {
-    "question": "Tevékenységdiagramon az alapértelmezés szerinti szinkronizációs vonal milyen működési logikát valósít meg?",
-    "options": [
-      {
-        "text": "VAGY kapu logikát",
-        "correct": false
-      },
-      {
-        "text": "ÉS kapu logikát",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
     "question": "Tevékenységdiagramon az alapértelmezés szerinti esetválasztó csúcs milyen működési logikát valósít meg?",
     "options": [
       {
@@ -7974,7 +8426,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
+    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható? <br> <img src=\"image-26.png\">",
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre",
@@ -7992,7 +8444,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
+    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható? <br> <img src=\"image-27.png\">",
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik a bal bemenetre",
@@ -8010,7 +8462,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
+    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható? <br> <img src=\"image-28.png\">",
     "options": [
       {
         "text": "A szinkronizációs vonal után a végrahajtás akkor folytatódhat, ha vezérjel érkezik bemenetre",
@@ -8036,7 +8488,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható?",
+    "question": "UML2 esetén mely állítás igaz, ha az alábbi részlet tevékenységdiagramon látható? <br> <img src=\"image-29.png\">",
     "options": [
       {
         "text": "A „Számla megnyitás” tevékenység közben „Utas” típusú megjegyzést kell generálni.",
@@ -8058,7 +8510,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 esetén mi a különbség az alábbi két aktivitásdiagram részlet között?",
+    "question": "UML2 esetén mi a különbség az alábbi két aktivitásdiagram részlet között? <br> <img src=\"image-30.png\">",
     "options": [
       {
         "text": "A bal oldali ábra értelmezése szerint „Utas keresése” tevékenység során keletkezik egy új „Utas” objektum, míg a jobb oldali ábra szerint csak rendelkezésre áll.",
@@ -8074,24 +8526,6 @@
       },
       {
         "text": "A bal oldali ábra szerint egy „Utas” objektum jelenléte kötelező, míg a jobb szerint opcionális",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Miért jó ugrópontok használata tevékenységdiagramokon?",
-    "options": [
-      {
-        "text": "Mert így egyszerűbb hivatkozni később részletezett ábrákra",
-        "correct": false
-      },
-      {
-        "text": "Mert így elkerülhető a vonalak kereszteződése",
-        "correct": true
-      },
-      {
-        "text": "Mert használatukkal (megszorításokkal) jobban értelmezhetővé válnak az ábrák",
         "correct": false
       }
     ],
@@ -8120,7 +8554,7 @@
     "explanation": ""
   },
   {
-    "question": "Az ábrán egy tevékenységdiagram részlet látható. Mit tudunk meg belőle?",
+    "question": "Az ábrán egy tevékenységdiagram részlet látható. Mit tudunk meg belőle?<br> <img src=\"image-31.png\">",
     "options": [
       {
         "text": "Az „Almenü kezelése” tevékenység minden hibatípus ellen védett, és ha bármely bekövetkezik, akkor a „Főmenü kezelése” következik",
@@ -8134,7 +8568,7 @@
     "explanation": ""
   },
   {
-    "question": "Ha tevékenységdiagramon az alábbi ábrarészlet látható, akkor milyen programkód részlet megkövetelése várható?",
+    "question": "Ha tevékenységdiagramon az alábbi ábrarészlet látható, akkor milyen programkód részlet megkövetelése várható? <br> <img src=\"image-32.png\">",
     "options": [
       {
         "text": "try-catch blokk",
@@ -8152,7 +8586,7 @@
     "explanation": ""
   },
   {
-    "question": "UML2 tevékenységdiagramján hogyan kell értelmezni az alábbi ábrarészt:",
+    "question": "UML2 tevékenységdiagramján hogyan kell értelmezni az alábbi ábrarészt: <br> <img src=\"image-33.png\">",
     "options": [
       {
         "text": "Külső esemény hatására „KivételTípus” típusú kivételt kell dobni.",

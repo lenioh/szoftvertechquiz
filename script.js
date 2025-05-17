@@ -79,56 +79,51 @@ function showQuestion() {
     const optsSection = document.getElementById('options-section');
     const optsContainer = document.getElementById('options');
 
-    // Remove any existing instruction
     const oldInstruction = optsSection.querySelector('.instruction');
     if (oldInstruction) oldInstruction.remove();
 
-    // Create a shuffled copy of options
     currentOptions = shuffle(q.options.slice());
-
-    // Compute how many must be selected
     const correctCountForThisQ = currentOptions.filter(o => o.correct).length;
+    const selectLimit = correctCountForThisQ === 1 ? 1 : currentOptions.length;
 
-    // Insert instruction
     const instruction = document.createElement('p');
-    instruction.textContent = `Select ${correctCountForThisQ} option${correctCountForThisQ > 1 ? 's' : ''}!`;
     instruction.className = 'instruction';
+    instruction.textContent = correctCountForThisQ === 1
+        ? 'Select 1 option!'
+        : 'Select MULTIPLE options!';
     optsSection.appendChild(instruction);
 
-    // Reset state
     selectedOptions = [];
     document.getElementById('question-text').innerHTML = q.question;
     optsContainer.innerHTML = '';
     document.getElementById('explanation').innerHTML = '';
 
-    // Show only Submit
     const submitBtn = document.getElementById('submit-btn');
     const nextBtn = document.getElementById('next-btn');
     submitBtn.style.display = 'inline-block';
-    submitBtn.disabled = true;
+    submitBtn.disabled = true; // always disabled until first pick
     nextBtn.style.display = 'none';
 
-    // Render each button from shuffled options
     currentOptions.forEach((opt, idx) => {
         const btn = document.createElement('button');
         btn.textContent = opt.text;
         btn.className = 'option-btn';
-        btn.onclick = () => toggleOption(btn, idx, correctCountForThisQ);
+        btn.onclick = () => toggleOption(btn, idx, selectLimit);
         optsContainer.appendChild(btn);
     });
 }
 
-function toggleOption(button, idx, maxSelect) {
+function toggleOption(button, idx, limit) {
     const i = selectedOptions.indexOf(idx);
     if (i > -1) {
         selectedOptions.splice(i, 1);
         button.classList.remove('selected');
-    } else if (selectedOptions.length < maxSelect) {
+    } else if (selectedOptions.length < limit) {
         selectedOptions.push(idx);
         button.classList.add('selected');
     }
-    document.getElementById('submit-btn').disabled =
-        selectedOptions.length !== maxSelect;
+    // enable submit as soon as at least one option is selected
+    document.getElementById('submit-btn').disabled = selectedOptions.length < 1;
 }
 
 function handleSubmit() {
@@ -137,27 +132,20 @@ function handleSubmit() {
         .map((o, i) => o.correct ? i : -1)
         .filter(i => i > -1);
 
-    // Disable & color all options
     document.querySelectorAll('.option-btn').forEach((btn, idx) => {
         btn.disabled = true;
-        if (correctIndices.includes(idx)) {
-            btn.style.backgroundColor = '#a4eda6';
-        } else {
-            btn.style.backgroundColor = '#ffcdd2';
-        }
+        if (correctIndices.includes(idx)) btn.style.backgroundColor = '#a4eda6';
+        else btn.style.backgroundColor = '#ffcdd2';
     });
 
-    // Show explanation
     document.getElementById('explanation').innerHTML = q.explanation;
 
-    // Swap buttons
     const submitBtn = document.getElementById('submit-btn');
     const nextBtn = document.getElementById('next-btn');
     submitBtn.style.display = 'none';
     nextBtn.style.display = 'inline-block';
     nextBtn.disabled = false;
 
-    // Check correctness
     const isAllCorrect = selectedOptions.length === correctIndices.length
         && selectedOptions.every(i => correctIndices.includes(i));
 
